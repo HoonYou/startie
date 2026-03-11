@@ -1,0 +1,146 @@
+﻿// 스타티 - 데이터 ERD (DBML)
+// 시각화: https://dbdiagram.io
+
+Table users {
+  user_id varchar [pk, note: 'U-00001 형식']
+  signup_date date
+  acquisition_source varchar [note: 'organic, google_ads, meta_ads, youtube, instagram_influencer, referral, content_marketing']
+  device_type varchar [note: 'web, ios, android']
+  campaign_id varchar [ref: > campaigns.campaign_id, note: 'null 허용']
+  signup_method varchar [note: 'email, google, kakao, naver']
+  gender varchar [note: 'male, female, other']
+  age_group varchar [note: '20-24, 25-29, 30-34, 35-39, 40+']
+  job_category varchar [note: 'student, marketing, design, developer, finance, hr, office_admin, sales, other']
+  state varchar [note: 'trialing, active, free_active, churned, resurrected']
+  current_plan varchar [note: 'monthly_basic, monthly_pro, annual_basic, annual_pro / null']
+  plan_start_date date [note: 'null 허용']
+  is_activated boolean [note: 'Activation(v2): 가입 후 7일 내 lesson_started 1회 이상']
+  activation_date date [note: 'Activation(v2) 최초 달성일 / null 허용']
+  churn_date date [note: 'null = 이탈하지 않음']
+  cancel_reason varchar [note: 'too_expensive, not_using, technical_issue ... / null']
+  total_sessions int
+  total_lessons_completed int
+  last_active_date date
+}
+
+Table event_logs {
+  user_id varchar [ref: > users.user_id]
+  session_id varchar
+  event_name varchar [note: '이벤트 21종']
+  event_timestamp datetime
+  device_type varchar [note: 'web, ios, android']
+  location varchar
+  event_sequence int [note: '세션 내 순서']
+  page_name varchar [note: 'null 허용']
+  course_id varchar [ref: > courses.course_id, note: 'null 허용']
+  lesson_id varchar [ref: > lessons.lesson_id, note: 'null 허용']
+  event_properties varchar [note: 'JSON 형식']
+}
+
+Table payment_transactions {
+  transaction_id varchar [pk]
+  user_id varchar [ref: > users.user_id]
+  transaction_date datetime
+  plan_name varchar [note: 'monthly_basic, monthly_pro, annual_basic, annual_pro']
+  amount int [note: 'KRW']
+  currency varchar [note: 'KRW']
+  payment_method varchar [note: 'card']
+  status varchar [note: 'completed, failed']
+  failure_reason varchar [note: 'insufficient_funds, card_declined, expired_card, bank_timeout, network_error / null']
+  retry_count int
+}
+
+Table plan_history {
+  user_id varchar [ref: > users.user_id]
+  plan_name varchar
+  action varchar [note: 'subscribe, renew, upgrade, cancel']
+  action_date date
+  previous_plan varchar [note: 'upgrade/cancel 시 입력 / null']
+  cancel_reason varchar [note: 'cancel 시 입력 / null']
+}
+
+Table courses {
+  course_id varchar [pk, note: 'CRS-001~020']
+  title varchar
+  category varchar [note: 'programming, data, business, design, ai']
+  difficulty varchar [note: 'beginner, intermediate, advanced']
+  price_type varchar [note: 'free, premium']
+  instructor_id varchar
+  total_lessons int
+  total_duration int [note: 'minutes']
+  launched_at date
+  rating_avg float
+}
+
+Table lessons {
+  lesson_id varchar [pk]
+  course_id varchar [ref: > courses.course_id]
+  lesson_order int
+  title varchar
+  duration_min int
+  has_quiz boolean
+}
+
+Table experiments {
+  experiment_id varchar [pk]
+  experiment_name varchar
+  hypothesis varchar
+  primary_metric varchar
+  variants varchar [note: 'JSON 형식']
+  traffic_pct float
+  start_date date
+  end_date date
+  target_segment varchar [note: 'new_users, trialing_users']
+  status varchar [note: 'completed']
+}
+
+Table ab_assignment {
+  user_id varchar [ref: > users.user_id]
+  experiment_id varchar [ref: > experiments.experiment_id]
+  variant varchar [note: 'control, treatment']
+  assigned_date date
+}
+
+
+
+Table campaigns {
+  campaign_id varchar [pk]
+  name varchar
+  channel varchar [note: 'google_ads, meta_ads, youtube, instagram_influencer, content_marketing, referral']
+  start_date date
+  end_date date [note: 'null 허용']
+  daily_budget int [note: 'KRW']
+  status varchar [note: 'active']
+}
+
+Table referral_events {
+  referral_id varchar [pk]
+  referrer_user_id varchar [ref: > users.user_id]
+  referred_user_id varchar [ref: > users.user_id, note: 'converted인 경우만 연결, sent/clicked는 null']
+  referral_date date
+  referral_channel varchar [note: 'link, kakao, email']
+  status varchar [note: 'sent, clicked, converted']
+}
+
+Table chat_events {
+  chat_id varchar [pk]
+  user_id varchar [ref: > users.user_id]
+  chat_date date
+  category varchar [note: 'billing, technical, content, account, other']
+  message varchar
+  status varchar [note: 'resolved, pending']
+  first_response_min float
+  resolution_min float
+  satisfaction_score int [note: '1~5']
+}
+
+Table push_events {
+  push_id varchar [pk]
+  user_id varchar [ref: > users.user_id]
+  campaign_id varchar [ref: > campaigns.campaign_id, note: 'null 허용']
+  sent_at datetime
+  push_type varchar [note: 'lesson_reminder, promotion, re_engagement, system']
+  title varchar
+  opened boolean
+  opened_at datetime [note: 'null = 미오픈']
+}

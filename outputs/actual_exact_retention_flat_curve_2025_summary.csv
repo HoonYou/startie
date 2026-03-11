@@ -1,0 +1,16 @@
+segment,day,eligible_users,retained_users,retention_pct
+Activated,7,10424,2241,21.5
+Activated,14,9629,1068,11.09
+Activated,30,7866,849,10.79
+Activated,60,5062,568,11.22
+Activated,90,2704,339,12.54
+All Users,7,13178,2830,21.48
+All Users,14,12157,1107,9.11
+All Users,30,9957,884,8.88
+All Users,60,6418,621,9.68
+All Users,90,3453,369,10.69
+Non-activated,7,2754,589,21.39
+Non-activated,14,2528,39,1.54
+Non-activated,30,2091,35,1.67
+Non-activated,60,1356,53,3.91
+Non-activated,90,749,30,4.01
