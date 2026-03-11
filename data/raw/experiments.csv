@@ -1,0 +1,3 @@
+﻿experiment_id,experiment_name,hypothesis,primary_metric,variants,traffic_pct,start_date,end_date,target_segment,status
+exp_onboarding_v2,온보딩 플로우 리디자인,새로운 3단계 온보딩이 온보딩 완료율과 첫 강의 시작률을 높인다,onboarding_completion_rate,"control,treatment",0.5,2025-03-17,2025-04-27,new_users,completed
+exp_pricing_page,가격 페이지 레이아웃 테스트,연간 플랜 할인을 강조하면 전환율은 높아지지만 ARPU가 달라질 수 있다,trial_to_paid_rate,"control,treatment",0.3,2025-04-07,2025-05-18,trialing_users,completed

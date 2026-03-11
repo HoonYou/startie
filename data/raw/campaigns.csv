@@ -1,0 +1,14 @@
+﻿campaign_id,name,channel,start_date,end_date,daily_budget,status
+CMP-001,Google_커리어전환_검색,google_ads,2024-06-01,,80000,active
+CMP-002,Google_파이썬강의_검색,google_ads,2024-08-01,,50000,active
+CMP-003,Google_브랜드_검색,google_ads,2024-10-01,,30000,active
+CMP-004,Meta_커리어전환_리타겟,meta_ads,2024-07-01,,60000,active
+CMP-005,Meta_후기영상_스토리,meta_ads,2024-09-01,,40000,active
+CMP-006,Meta_무료강의_리드,meta_ads,2025-01-15,,40000,active
+CMP-010,YT_코딩입문_프리롤,youtube,2024-07-15,,50000,active
+CMP-011,YT_데이터분석_브랜디드,youtube,2024-10-01,,60000,active
+CMP-012,IG_인플루언서_개발자전환,instagram_influencer,2024-08-01,,60000,active
+CMP-013,IG_인플루언서_AI강의,instagram_influencer,2025-01-01,,40000,active
+CMP-007,블로그_커리어가이드,content_marketing,2024-05-01,,0,active
+CMP-008,SEO_강의추천_시리즈,content_marketing,2024-08-01,,0,active
+CMP-009,추천인_1만원_캐시백,referral,2024-09-01,,0,active

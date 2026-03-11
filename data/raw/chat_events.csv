@@ -1,0 +1,960 @@
+﻿chat_id,user_id,chat_date,category,message,status,first_response_min,resolution_min,satisfaction_score
+CHAT-95f925f3,U-02102,2025-01-06T15:06:00,other,강사 지원,resolved,440.2,1673.0,3
+CHAT-d617a5bb,U-00072,2025-01-07T15:06:00,billing,결제 내역 확인,resolved,19.0,70.1,2
+CHAT-ddc1f8c3,U-01014,2025-01-07T17:32:00,technical,다운로드 안 됨,resolved,17.9,39.8,4
+CHAT-225e4d99,U-01660,2025-01-07T14:12:00,technical,영상이 안 나와요,resolved,46.9,133.0,3
+CHAT-54dcb74d,U-02111,2025-01-08T11:42:00,content,추가 강의 요청,resolved,116.6,429.9,2
+CHAT-b37bc074,U-02626,2025-01-08T19:58:00,content,추가 강의 요청,resolved,189.4,650.3,1
+CHAT-491a28a7,U-03446,2025-01-08T10:40:00,other,기타 문의,resolved,301.7,584.2,4
+CHAT-74dfbe2d,U-05116,2025-01-08T17:16:00,content,실습 자료 누락,resolved,101.5,281.5,2
+CHAT-e8705ab9,U-02072,2025-01-09T21:25:00,content,퀴즈 정답 오류,resolved,148.0,543.3,2
+CHAT-a5c3fdc2,U-02875,2025-01-09T21:01:00,other,기타 문의,resolved,459.8,849.5,4
+CHAT-a0c2885b,U-03529,2025-01-09T20:52:00,technical,다운로드 안 됨,resolved,119.3,322.9,2
+CHAT-a6a761fe,U-05164,2025-01-09T22:08:00,other,강사 지원,resolved,366.6,776.3,1
+CHAT-8099556f,U-00084,2025-01-10T16:36:00,technical,영상이 안 나와요,resolved,116.6,197.8,4
+CHAT-e9adef59,U-02861,2025-01-10T13:25:00,account,비밀번호 변경,resolved,27.7,97.7,4
+CHAT-9a8c2ebf,U-05195,2025-01-10T13:46:00,account,탈퇴 문의,resolved,58.0,222.3,3
+CHAT-6587058e,U-05233,2025-01-10T18:14:00,technical,로그인 오류,resolved,79.5,135.8,1
+CHAT-a88e0391,U-00004,2025-01-11T10:00:00,content,강의 업데이트 계획,resolved,121.6,245.1,3
+CHAT-5e51d222,U-02023,2025-01-11T21:26:00,technical,영상이 안 나와요,resolved,95.0,355.5,2
+CHAT-71c109ce,U-05210,2025-01-11T11:06:00,content,실습 자료 누락,resolved,122.7,309.7,3
+CHAT-993283d6,U-01359,2025-01-13T16:58:00,billing,결제 내역 확인,pending,28.0,80.7,4
+CHAT-29fae230,U-02240,2025-01-13T22:32:00,technical,영상이 안 나와요,resolved,25.4,92.5,4
+CHAT-427258c3,U-02996,2025-01-13T10:44:00,technical,앱이 자주 튕겨요,pending,42.5,131.1,3
+CHAT-87500b7e,U-03107,2025-01-14T12:59:00,other,파트너십 제안,pending,211.9,746.6,1
+CHAT-f670f79b,U-05476,2025-01-14T15:52:00,content,실습 자료 누락,resolved,85.1,306.4,4
+CHAT-2727c04f,U-02008,2025-01-15T16:33:00,billing,결제가 안 돼요,resolved,17.9,62.3,5
+CHAT-896eb316,U-04582,2025-01-15T14:31:00,account,이메일 변경,resolved,24.7,58.0,3
+CHAT-f90f19df,U-05296,2025-01-15T11:32:00,account,비밀번호 변경,resolved,43.1,132.2,4
+CHAT-5a7c38bf,U-00856,2025-01-16T19:55:00,billing,결제가 안 돼요,resolved,24.4,89.0,3
+CHAT-e1ae5d24,U-05211,2025-01-16T18:53:00,account,이메일 변경,resolved,27.6,53.4,4
+CHAT-61535cf7,U-05380,2025-01-16T16:19:00,account,이메일 변경,resolved,59.7,236.0,4
+CHAT-26b9ee1e,U-00972,2025-01-17T22:33:00,technical,다운로드 안 됨,resolved,52.9,187.7,4
+CHAT-ed546eca,U-02129,2025-01-17T20:32:00,technical,다운로드 안 됨,resolved,78.9,264.0,4
+CHAT-67d5fb3e,U-05175,2025-01-17T10:48:00,account,비밀번호 변경,pending,53.7,119.4,3
+CHAT-94205a71,U-05211,2025-01-17T21:36:00,billing,환불 문의,resolved,11.6,17.9,1
+CHAT-ecabaddd,U-05244,2025-01-17T16:19:00,account,프로필 수정,resolved,58.9,146.9,5
+CHAT-3d36ec4b,U-02217,2025-01-18T17:15:00,other,기타 문의,resolved,266.7,687.1,3
+CHAT-318a798c,U-05518,2025-01-18T19:14:00,content,실습 자료 누락,pending,96.3,345.1,2
+CHAT-733805ea,U-05695,2025-01-18T14:02:00,account,탈퇴 문의,resolved,13.4,52.5,4
+CHAT-ec59ff70,U-02972,2025-01-19T19:55:00,technical,로그인 오류,resolved,84.1,315.8,2
+CHAT-acef0c9e,U-05591,2025-01-19T11:13:00,technical,영상이 안 나와요,pending,87.2,185.7,3
+CHAT-05c16787,U-01173,2025-01-20T22:27:00,billing,결제가 안 돼요,resolved,19.7,42.0,4
+CHAT-7967d570,U-03612,2025-01-20T16:31:00,technical,로그인 오류,resolved,41.2,158.0,5
+CHAT-8a2e1443,U-05289,2025-01-20T17:35:00,technical,다운로드 안 됨,resolved,116.9,295.8,1
+CHAT-4f992b02,U-05744,2025-01-20T18:08:00,content,추가 강의 요청,resolved,188.5,429.6,4
+CHAT-a96053cd,U-00545,2025-01-21T10:48:00,billing,결제 내역 확인,resolved,13.8,31.6,3
+CHAT-c2700202,U-02067,2025-01-21T09:57:00,other,기타 문의,resolved,357.6,612.7,4
+CHAT-604248b8,U-03421,2025-01-21T10:37:00,content,강의 업데이트 계획,resolved,195.6,563.2,2
+CHAT-ed635217,U-05102,2025-01-21T22:47:00,content,추가 강의 요청,resolved,47.4,85.9,1
+CHAT-7eb1413d,U-05892,2025-01-21T20:55:00,technical,영상이 안 나와요,resolved,116.3,256.3,3
+CHAT-fe9c6dc4,U-03433,2025-01-22T10:02:00,technical,앱이 자주 튕겨요,pending,94.6,369.9,2
+CHAT-70f086ed,U-04139,2025-01-22T15:29:00,billing,플랜 변경 방법,resolved,11.8,34.7,4
+CHAT-d41a3357,U-05230,2025-01-22T18:16:00,content,강의 업데이트 계획,pending,112.8,408.8,2
+CHAT-f90504a0,U-05503,2025-01-22T12:55:00,account,이메일 변경,resolved,33.6,65.7,3
+CHAT-b6ac71ab,U-05637,2025-01-22T18:55:00,content,퀴즈 정답 오류,resolved,199.1,718.7,3
+CHAT-47580ded,U-05740,2025-01-22T16:31:00,billing,플랜 변경 방법,resolved,20.9,46.0,3
+CHAT-6abc5d0c,U-00351,2025-01-24T12:46:00,account,탈퇴 문의,resolved,53.9,104.2,5
+CHAT-25576dcb,U-02682,2025-01-24T12:59:00,content,실습 자료 누락,resolved,110.4,181.8,4
+CHAT-c8255c63,U-03806,2025-01-24T12:45:00,content,추가 강의 요청,pending,68.9,227.5,3
+CHAT-9bdb74af,U-05432,2025-01-24T12:48:00,billing,환불 문의,resolved,453.6,512.7,2
+CHAT-92246f99,U-05964,2025-01-24T17:22:00,billing,결제가 안 돼요,resolved,10.0,16.8,4
+CHAT-1bd02929,U-06022,2025-01-24T14:05:00,other,파트너십 제안,resolved,393.1,1031.4,1
+CHAT-a2b89d20,U-06053,2025-01-24T17:57:00,technical,앱이 자주 튕겨요,resolved,113.9,383.5,2
+CHAT-ccf1f3b0,U-00937,2025-01-25T16:39:00,account,비밀번호 변경,resolved,31.3,111.1,3
+CHAT-afc05b91,U-02067,2025-01-25T20:16:00,technical,다운로드 안 됨,pending,79.0,238.6,2
+CHAT-78b7651a,U-03168,2025-01-25T13:22:00,content,추가 강의 요청,pending,51.3,158.8,5
+CHAT-c8228582,U-02067,2025-01-26T13:46:00,technical,앱이 자주 튕겨요,resolved,79.1,228.8,1
+CHAT-3b1fffb0,U-04413,2025-01-26T17:04:00,account,탈퇴 문의,pending,32.3,108.0,3
+CHAT-cb19abf2,U-05933,2025-01-26T15:25:00,billing,결제가 안 돼요,resolved,7.6,27.2,1
+CHAT-07482ea9,U-06151,2025-01-26T20:32:00,account,비밀번호 변경,resolved,49.8,141.8,4
+CHAT-f83709bf,U-06170,2025-01-26T15:58:00,technical,로그인 오류,resolved,97.0,320.4,3
+CHAT-8dd8f273,U-00223,2025-01-27T20:05:00,content,실습 자료 누락,resolved,187.3,650.0,3
+CHAT-ce0645f1,U-01848,2025-01-27T17:53:00,billing,결제가 안 돼요,resolved,14.7,50.8,4
+CHAT-14081b52,U-02057,2025-01-27T21:07:00,other,파트너십 제안,pending,468.1,1714.5,2
+CHAT-77eba3e1,U-02534,2025-01-27T16:46:00,billing,플랜 변경 방법,pending,26.3,87.8,3
+CHAT-a5a33e4f,U-04034,2025-01-27T10:11:00,billing,결제 내역 확인,resolved,15.4,47.8,4
+CHAT-999fd1ab,U-05332,2025-01-27T20:13:00,billing,환불 문의,resolved,197.4,972.0,3
+CHAT-a297de81,U-05540,2025-01-27T20:34:00,billing,결제 내역 확인,resolved,28.2,63.1,3
+CHAT-9d928b39,U-05653,2025-01-27T14:18:00,billing,결제 내역 확인,resolved,221.3,954.6,3
+CHAT-2c459774,U-05780,2025-01-27T16:28:00,content,퀴즈 정답 오류,pending,165.0,570.2,4
+CHAT-2bae258b,U-02016,2025-01-28T17:19:00,technical,로그인 오류,resolved,17.3,55.7,4
+CHAT-8c694253,U-02148,2025-01-28T19:46:00,billing,플랜 변경 방법,resolved,23.2,45.5,2
+CHAT-194312d6,U-02358,2025-01-28T17:20:00,account,탈퇴 문의,resolved,50.4,104.1,5
+CHAT-4650c039,U-06133,2025-01-28T14:35:00,technical,로그인 오류,resolved,45.0,120.5,4
+CHAT-3bf53dd9,U-06271,2025-01-28T10:37:00,account,프로필 수정,pending,46.0,125.9,2
+CHAT-36093d8d,U-06301,2025-01-28T15:02:00,technical,앱이 자주 튕겨요,pending,43.1,147.9,4
+CHAT-7b268ded,U-01528,2025-01-29T16:26:00,other,파트너십 제안,resolved,361.4,1435.7,3
+CHAT-ced309cf,U-03906,2025-01-29T14:56:00,technical,앱이 자주 튕겨요,resolved,73.6,189.6,1
+CHAT-fa9d0dc8,U-05135,2025-01-30T16:12:00,technical,로그인 오류,resolved,51.5,176.4,5
+CHAT-0d899bdc,U-05637,2025-01-30T12:06:00,billing,환불 문의,resolved,10.3,15.5,1
+CHAT-02c7d48d,U-02381,2025-01-31T09:39:00,technical,영상이 안 나와요,resolved,86.7,194.2,4
+CHAT-5164d260,U-05088,2025-01-31T20:56:00,billing,환불 문의,resolved,310.1,1076.4,2
+CHAT-f90f7cfe,U-05863,2025-01-31T12:46:00,billing,플랜 변경 방법,resolved,384.6,1237.8,2
+CHAT-0511b479,U-00016,2025-02-01T20:53:00,account,탈퇴 문의,pending,33.5,57.5,4
+CHAT-470e7765,U-03273,2025-02-02T12:23:00,technical,로그인 오류,resolved,35.2,89.7,4
+CHAT-957df9b4,U-05601,2025-02-02T15:33:00,content,실습 자료 누락,resolved,206.7,457.6,2
+CHAT-2d62b783,U-05865,2025-02-02T19:11:00,billing,플랜 변경 방법,pending,29.1,64.6,4
+CHAT-55fc25b3,U-03993,2025-02-03T11:59:00,other,파트너십 제안,resolved,479.1,1539.9,4
+CHAT-67e8926d,U-05572,2025-02-03T14:20:00,billing,플랜 변경 방법,resolved,410.4,1068.4,3
+CHAT-63e05a3f,U-05629,2025-02-03T16:04:00,technical,로그인 오류,resolved,101.9,157.9,4
+CHAT-9a678ba7,U-06138,2025-02-03T21:09:00,billing,환불 문의,resolved,18.3,46.9,5
+CHAT-04d6da3c,U-06307,2025-02-03T22:04:00,other,강사 지원,resolved,366.3,610.9,2
+CHAT-d46001d8,U-06419,2025-02-03T11:44:00,content,실습 자료 누락,resolved,47.0,82.7,4
+CHAT-0308c7fb,U-06540,2025-02-03T11:07:00,account,프로필 수정,pending,18.8,72.2,3
+CHAT-27599aee,U-00124,2025-02-04T21:37:00,technical,영상이 안 나와요,resolved,102.6,294.3,2
+CHAT-10b0473e,U-01508,2025-02-04T11:30:00,technical,로그인 오류,resolved,42.7,151.7,5
+CHAT-d1b45b76,U-02972,2025-02-04T17:21:00,technical,영상이 안 나와요,resolved,31.6,65.3,2
+CHAT-59d56163,U-03250,2025-02-04T18:35:00,technical,다운로드 안 됨,resolved,49.1,107.5,2
+CHAT-dfcc7531,U-03546,2025-02-04T09:11:00,account,탈퇴 문의,resolved,25.1,90.1,1
+CHAT-c82d20c4,U-06735,2025-02-04T13:36:00,content,추가 강의 요청,resolved,172.6,522.7,3
+CHAT-3a3e2137,U-01176,2025-02-05T13:43:00,content,추가 강의 요청,pending,159.7,426.1,2
+CHAT-8882faeb,U-05582,2025-02-05T20:10:00,billing,환불 문의,resolved,28.2,90.2,3
+CHAT-1d420e65,U-06731,2025-02-05T15:02:00,account,탈퇴 문의,resolved,42.6,154.3,5
+CHAT-b7837fde,U-03741,2025-02-06T19:57:00,content,추가 강의 요청,resolved,84.1,163.6,2
+CHAT-d1bee5e7,U-06819,2025-02-06T12:49:00,content,실습 자료 누락,resolved,153.5,545.0,1
+CHAT-012ec243,U-02364,2025-02-07T18:44:00,account,비밀번호 변경,resolved,42.3,153.0,5
+CHAT-7cb60c7d,U-05867,2025-02-07T14:28:00,billing,결제가 안 돼요,resolved,6.3,21.6,3
+CHAT-3d163f0e,U-06703,2025-02-07T22:20:00,billing,플랜 변경 방법,resolved,19.3,73.8,5
+CHAT-848cd093,U-06926,2025-02-07T15:22:00,technical,다운로드 안 됨,resolved,22.5,61.0,4
+CHAT-196b6a5f,U-02573,2025-02-09T21:20:00,billing,플랜 변경 방법,resolved,20.4,65.1,3
+CHAT-0485a394,U-04828,2025-02-09T15:55:00,technical,다운로드 안 됨,resolved,63.6,236.2,3
+CHAT-603bed22,U-05289,2025-02-09T12:34:00,account,프로필 수정,resolved,38.9,106.0,3
+CHAT-3cc2f201,U-05944,2025-02-09T14:13:00,account,비밀번호 변경,resolved,10.1,16.1,2
+CHAT-688c714e,U-05811,2025-02-10T09:30:00,billing,결제 내역 확인,resolved,21.0,72.9,4
+CHAT-4a8e8989,U-05842,2025-02-10T13:11:00,content,강의 업데이트 계획,resolved,111.6,283.9,4
+CHAT-fcc4837e,U-06695,2025-02-10T21:59:00,billing,플랜 변경 방법,pending,20.9,41.0,3
+CHAT-c7e32fb8,U-07168,2025-02-10T21:37:00,technical,영상이 안 나와요,resolved,75.9,217.4,4
+CHAT-d455c543,U-07171,2025-02-10T21:10:00,content,실습 자료 누락,resolved,135.9,239.6,3
+CHAT-19820bc3,U-02861,2025-02-11T21:44:00,content,강의 업데이트 계획,resolved,73.6,113.0,4
+CHAT-fca4c532,U-06950,2025-02-11T14:29:00,other,파트너십 제안,resolved,269.1,779.3,3
+CHAT-287a63f8,U-07254,2025-02-11T11:07:00,technical,앱이 자주 튕겨요,resolved,101.7,180.8,4
+CHAT-8120ccbc,U-01442,2025-02-12T22:47:00,technical,앱이 자주 튕겨요,resolved,83.1,202.7,2
+CHAT-2597681d,U-03720,2025-02-12T16:20:00,technical,다운로드 안 됨,resolved,17.8,30.4,5
+CHAT-02f22397,U-05884,2025-02-12T21:04:00,content,강의 업데이트 계획,resolved,94.5,175.8,4
+CHAT-e1c9a9e3,U-06231,2025-02-12T16:44:00,billing,결제가 안 돼요,resolved,301.1,1361.6,1
+CHAT-70b989e2,U-07088,2025-02-12T19:10:00,content,퀴즈 정답 오류,resolved,71.3,112.2,3
+CHAT-d78338d5,U-07320,2025-02-12T16:38:00,account,비밀번호 변경,resolved,56.4,137.5,5
+CHAT-4c098592,U-07068,2025-02-13T10:03:00,other,파트너십 제안,resolved,179.1,495.8,3
+CHAT-41bc0d24,U-06429,2025-02-14T22:47:00,billing,결제 내역 확인,resolved,361.0,1314.1,1
+CHAT-2fcedb90,U-01901,2025-02-15T11:04:00,technical,다운로드 안 됨,resolved,59.1,138.3,1
+CHAT-ea162158,U-07486,2025-02-15T20:34:00,account,탈퇴 문의,resolved,46.2,161.0,4
+CHAT-15dd8792,U-04717,2025-02-16T09:03:00,content,실습 자료 누락,pending,162.3,252.6,4
+CHAT-e9247949,U-04914,2025-02-16T10:50:00,content,퀴즈 정답 오류,resolved,162.1,578.4,2
+CHAT-e2370a73,U-04939,2025-02-16T19:25:00,billing,결제가 안 돼요,resolved,28.5,92.0,5
+CHAT-b87ba123,U-05119,2025-02-16T17:16:00,technical,영상이 안 나와요,resolved,71.4,261.8,3
+CHAT-bb55bb22,U-07658,2025-02-16T15:47:00,content,실습 자료 누락,pending,139.3,402.7,1
+CHAT-b678c99c,U-01269,2025-02-17T16:16:00,content,추가 강의 요청,resolved,145.8,220.8,4
+CHAT-8df11f88,U-04049,2025-02-17T15:41:00,other,파트너십 제안,resolved,228.1,644.7,2
+CHAT-7a521f31,U-07235,2025-02-17T12:18:00,billing,결제 내역 확인,resolved,16.8,30.1,3
+CHAT-da2477d5,U-07242,2025-02-17T12:14:00,content,퀴즈 정답 오류,resolved,69.0,193.9,1
+CHAT-6e15717b,U-07778,2025-02-17T20:38:00,account,탈퇴 문의,resolved,43.8,119.3,5
+CHAT-f93e109d,U-02428,2025-02-18T13:32:00,technical,다운로드 안 됨,resolved,43.2,166.3,3
+CHAT-5fa92bcd,U-03024,2025-02-18T09:10:00,account,프로필 수정,resolved,47.1,152.2,5
+CHAT-02a4b47e,U-03244,2025-02-18T18:18:00,account,탈퇴 문의,resolved,38.4,109.6,5
+CHAT-2e66e199,U-05202,2025-02-18T13:23:00,technical,다운로드 안 됨,resolved,16.4,31.6,4
+CHAT-504b2c7e,U-07290,2025-02-18T13:38:00,account,프로필 수정,resolved,40.1,145.1,4
+CHAT-92874aa2,U-02170,2025-02-19T15:02:00,content,추가 강의 요청,resolved,201.8,449.7,4
+CHAT-b9c08d94,U-04264,2025-02-19T20:03:00,content,추가 강의 요청,pending,207.6,532.4,3
+CHAT-8cea3993,U-07941,2025-02-19T22:28:00,technical,로그인 오류,resolved,22.4,74.8,5
+CHAT-d006f1dd,U-07947,2025-02-19T15:22:00,billing,플랜 변경 방법,pending,26.0,92.2,5
+CHAT-1e360475,U-04608,2025-02-20T11:15:00,technical,앱이 자주 튕겨요,resolved,93.0,348.7,2
+CHAT-8fcfaaec,U-05403,2025-02-20T16:36:00,billing,결제 내역 확인,resolved,26.9,59.3,4
+CHAT-ac84a2dd,U-07487,2025-02-20T20:01:00,content,실습 자료 누락,resolved,34.9,91.2,1
+CHAT-a43007ec,U-07692,2025-02-20T16:04:00,content,추가 강의 요청,resolved,233.8,419.2,2
+CHAT-b6f21307,U-07839,2025-02-20T21:27:00,technical,앱이 자주 튕겨요,resolved,68.1,243.0,3
+CHAT-9bb9841a,U-08016,2025-02-20T09:32:00,content,강의 업데이트 계획,resolved,121.6,419.0,4
+CHAT-ac35e967,U-08031,2025-02-20T11:06:00,billing,결제가 안 돼요,resolved,26.6,89.6,5
+CHAT-e6538c79,U-00964,2025-02-21T20:10:00,content,추가 강의 요청,pending,101.7,223.6,1
+CHAT-b794d179,U-01048,2025-02-21T16:12:00,other,기타 문의,resolved,108.1,254.6,2
+CHAT-9fcfcdf2,U-01336,2025-02-21T11:12:00,content,추가 강의 요청,resolved,237.5,622.8,2
+CHAT-a5a08a94,U-06259,2025-02-21T22:23:00,billing,결제 내역 확인,resolved,22.5,40.9,4
+CHAT-eaf7c722,U-06779,2025-02-21T14:08:00,account,프로필 수정,resolved,35.2,112.9,4
+CHAT-0a49fc50,U-07255,2025-02-21T16:49:00,billing,환불 문의,pending,6.3,20.0,3
+CHAT-dcfd5417,U-07403,2025-02-21T19:34:00,billing,결제가 안 돼요,resolved,5.0,8.5,4
+CHAT-6692dc10,U-07416,2025-02-21T20:33:00,billing,결제가 안 돼요,resolved,157.6,1352.6,4
+CHAT-0c734b60,U-08062,2025-02-21T18:01:00,content,강의 업데이트 계획,pending,56.0,206.0,3
+CHAT-64b1db0f,U-03855,2025-02-23T16:45:00,technical,다운로드 안 됨,pending,119.0,438.9,4
+CHAT-ea370681,U-06271,2025-02-23T16:05:00,content,강의 업데이트 계획,resolved,147.4,536.2,3
+CHAT-b8677795,U-07470,2025-02-23T19:19:00,billing,결제 내역 확인,pending,10.2,28.8,5
+CHAT-3edaf0d2,U-07637,2025-02-23T09:33:00,other,기타 문의,resolved,82.1,312.5,3
+CHAT-cb5730a3,U-07996,2025-02-23T13:37:00,technical,다운로드 안 됨,pending,71.3,196.7,3
+CHAT-2294fabe,U-01272,2025-02-24T14:03:00,other,파트너십 제안,pending,102.9,182.0,3
+CHAT-9a44f971,U-02763,2025-02-24T22:10:00,technical,앱이 자주 튕겨요,resolved,89.6,161.1,3
+CHAT-16f6e917,U-04618,2025-02-24T17:47:00,content,퀴즈 정답 오류,resolved,221.5,657.2,3
+CHAT-7b002d5c,U-04882,2025-02-24T21:13:00,content,실습 자료 누락,resolved,195.2,343.2,3
+CHAT-a460792a,U-05419,2025-02-24T19:31:00,account,비밀번호 변경,resolved,54.1,81.3,4
+CHAT-8555f7dd,U-06203,2025-02-24T16:48:00,billing,플랜 변경 방법,resolved,19.8,62.0,4
+CHAT-fd84689a,U-06687,2025-02-24T13:31:00,technical,앱이 자주 튕겨요,resolved,73.8,234.8,2
+CHAT-5f5c9f03,U-00755,2025-02-25T22:19:00,technical,다운로드 안 됨,resolved,106.6,393.4,2
+CHAT-c7d7f203,U-03483,2025-02-25T10:17:00,content,강의 업데이트 계획,pending,31.5,98.1,1
+CHAT-90009903,U-06929,2025-02-25T14:29:00,billing,결제 내역 확인,resolved,24.4,64.3,2
+CHAT-45924041,U-07995,2025-02-25T16:42:00,content,실습 자료 누락,resolved,34.7,127.7,3
+CHAT-793f1408,U-08343,2025-02-25T22:39:00,billing,결제 내역 확인,pending,12.7,48.5,3
+CHAT-2b6bc839,U-08384,2025-02-25T21:12:00,technical,다운로드 안 됨,pending,35.8,57.7,4
+CHAT-d8d00025,U-00007,2025-02-26T19:47:00,billing,결제가 안 돼요,resolved,18.6,31.7,3
+CHAT-7a258a8c,U-00591,2025-02-26T13:30:00,billing,결제 내역 확인,resolved,6.9,15.4,4
+CHAT-337d5ec9,U-07456,2025-02-26T18:40:00,billing,플랜 변경 방법,resolved,29.8,46.1,3
+CHAT-37b3f505,U-07513,2025-02-26T21:09:00,billing,플랜 변경 방법,resolved,6.4,22.4,1
+CHAT-771e5b65,U-07719,2025-02-26T17:01:00,billing,결제가 안 돼요,resolved,6.5,10.9,5
+CHAT-bf336fce,U-07935,2025-02-26T19:23:00,content,퀴즈 정답 오류,pending,140.9,245.7,2
+CHAT-863aac81,U-00284,2025-02-27T19:11:00,billing,결제가 안 돼요,resolved,18.5,56.9,4
+CHAT-492e84b1,U-05047,2025-02-27T10:28:00,content,실습 자료 누락,resolved,62.8,128.0,3
+CHAT-3b65fa47,U-07527,2025-02-27T18:17:00,content,실습 자료 누락,pending,128.8,388.1,3
+CHAT-dfafa67e,U-07771,2025-02-27T20:14:00,billing,결제 내역 확인,pending,21.6,60.7,4
+CHAT-90fe4386,U-07842,2025-02-27T22:27:00,technical,영상이 안 나와요,pending,108.6,257.5,4
+CHAT-6dcb0ee1,U-08560,2025-02-27T11:46:00,content,추가 강의 요청,resolved,83.3,205.7,3
+CHAT-5dca3900,U-00276,2025-02-28T22:57:00,billing,환불 문의,resolved,10.6,31.0,3
+CHAT-5bcb7ed5,U-03104,2025-02-28T21:43:00,other,기타 문의,resolved,363.1,875.3,1
+CHAT-741c9862,U-06252,2025-02-28T11:44:00,technical,로그인 오류,pending,28.8,71.6,5
+CHAT-012fa956,U-07904,2025-02-28T16:24:00,billing,결제 내역 확인,resolved,25.1,53.5,3
+CHAT-8d1a3507,U-00692,2025-03-01T12:45:00,content,퀴즈 정답 오류,resolved,167.0,324.6,1
+CHAT-b454b864,U-01804,2025-03-01T17:52:00,content,강의 업데이트 계획,resolved,146.6,570.1,3
+CHAT-4ef931cb,U-05187,2025-03-01T14:04:00,technical,로그인 오류,resolved,66.9,228.1,3
+CHAT-841ec3b0,U-07338,2025-03-01T11:25:00,billing,결제 내역 확인,resolved,23.5,43.2,5
+CHAT-404fccb9,U-01116,2025-03-02T12:54:00,content,추가 강의 요청,resolved,173.6,501.7,1
+CHAT-45f1f431,U-02275,2025-03-02T22:37:00,content,강의 업데이트 계획,resolved,121.4,184.0,2
+CHAT-d28a87c2,U-06673,2025-03-02T20:29:00,content,실습 자료 누락,resolved,84.8,327.2,3
+CHAT-e65e3dd2,U-07396,2025-03-02T14:06:00,billing,환불 문의,resolved,313.9,912.2,2
+CHAT-d2f5fe0d,U-08086,2025-03-02T09:21:00,billing,결제 내역 확인,resolved,24.9,75.1,4
+CHAT-679f1465,U-03375,2025-03-03T21:27:00,billing,환불 문의,resolved,15.3,46.2,4
+CHAT-c1ef054e,U-03868,2025-03-03T15:34:00,technical,앱이 자주 튕겨요,resolved,103.7,395.0,1
+CHAT-162a3ffa,U-04832,2025-03-03T16:21:00,other,기타 문의,resolved,46.7,83.7,3
+CHAT-de25f810,U-05653,2025-03-03T09:42:00,technical,앱이 자주 튕겨요,resolved,50.6,107.4,2
+CHAT-cf5d45ac,U-08714,2025-03-03T12:02:00,billing,결제 내역 확인,resolved,16.8,41.5,1
+CHAT-5d99d2ff,U-02529,2025-03-04T12:21:00,content,추가 강의 요청,resolved,209.5,733.3,3
+CHAT-c87a8a07,U-04827,2025-03-04T12:54:00,other,기타 문의,resolved,413.0,627.4,2
+CHAT-92d56c4a,U-05233,2025-03-04T16:35:00,content,추가 강의 요청,resolved,106.5,378.7,4
+CHAT-c134baa9,U-05283,2025-03-04T19:40:00,technical,로그인 오류,resolved,60.5,239.3,3
+CHAT-9cf1d2fd,U-07323,2025-03-04T21:36:00,technical,앱이 자주 튕겨요,resolved,98.9,347.9,4
+CHAT-3c6947f5,U-08850,2025-03-04T20:12:00,other,기타 문의,resolved,235.3,801.3,2
+CHAT-e1b4835c,U-09052,2025-03-04T14:15:00,content,퀴즈 정답 오류,resolved,165.9,307.6,3
+CHAT-2e11988c,U-02863,2025-03-05T16:28:00,other,강사 지원,resolved,478.0,1665.8,3
+CHAT-490b6d4f,U-03983,2025-03-05T21:42:00,other,강사 지원,resolved,89.6,339.9,4
+CHAT-a8455bc4,U-04460,2025-03-05T11:47:00,content,실습 자료 누락,resolved,125.6,500.7,4
+CHAT-5aa99dec,U-06208,2025-03-05T18:01:00,content,실습 자료 누락,resolved,231.8,801.2,3
+CHAT-30d53150,U-07861,2025-03-05T21:24:00,content,퀴즈 정답 오류,resolved,200.0,765.9,2
+CHAT-5bd11825,U-09019,2025-03-05T11:24:00,content,추가 강의 요청,resolved,237.2,517.8,1
+CHAT-771a4b84,U-00071,2025-03-06T15:10:00,technical,앱이 자주 튕겨요,resolved,28.5,105.9,5
+CHAT-c213a95b,U-01954,2025-03-06T19:41:00,other,강사 지원,resolved,388.1,1128.4,1
+CHAT-0b9be098,U-04408,2025-03-06T17:08:00,technical,다운로드 안 됨,resolved,82.6,304.3,4
+CHAT-c0908567,U-05018,2025-03-06T17:16:00,technical,영상이 안 나와요,resolved,69.2,191.1,1
+CHAT-4a558734,U-07377,2025-03-06T12:25:00,content,퀴즈 정답 오류,resolved,37.2,57.0,4
+CHAT-d7bd02f4,U-08300,2025-03-06T17:52:00,account,이메일 변경,resolved,29.6,97.4,5
+CHAT-e419da77,U-08521,2025-03-06T09:48:00,billing,환불 문의,pending,8.2,15.0,4
+CHAT-5f8b75e0,U-09008,2025-03-06T19:46:00,technical,로그인 오류,pending,42.7,71.8,5
+CHAT-64cb0514,U-09034,2025-03-06T16:33:00,technical,로그인 오류,resolved,29.7,55.2,4
+CHAT-afe53698,U-04339,2025-03-07T15:22:00,other,강사 지원,resolved,129.4,455.5,3
+CHAT-94a45c78,U-07053,2025-03-07T15:54:00,content,추가 강의 요청,pending,48.8,181.1,3
+CHAT-45465b52,U-07790,2025-03-07T09:21:00,account,탈퇴 문의,resolved,21.4,40.9,5
+CHAT-1497c3e4,U-09295,2025-03-07T12:08:00,technical,로그인 오류,resolved,58.5,133.6,4
+CHAT-36022d87,U-00665,2025-03-08T18:18:00,technical,앱이 자주 튕겨요,resolved,74.6,166.2,3
+CHAT-b0f4fa17,U-05269,2025-03-08T12:02:00,content,강의 업데이트 계획,resolved,232.0,669.0,3
+CHAT-a4282d54,U-06736,2025-03-08T13:43:00,other,강사 지원,resolved,261.0,474.2,3
+CHAT-a6f4dccb,U-08057,2025-03-08T18:16:00,billing,결제가 안 돼요,resolved,28.1,78.5,3
+CHAT-f49f9156,U-09229,2025-03-08T14:32:00,billing,플랜 변경 방법,pending,25.3,90.3,5
+CHAT-0ca84695,U-03981,2025-03-09T15:57:00,technical,로그인 오류,resolved,16.5,44.9,3
+CHAT-9e1a0bee,U-08282,2025-03-09T09:28:00,account,탈퇴 문의,resolved,44.3,101.0,5
+CHAT-0ee1950c,U-04015,2025-03-10T22:18:00,billing,결제가 안 돼요,pending,21.6,52.1,4
+CHAT-2624aad6,U-09288,2025-03-10T11:56:00,billing,환불 문의,resolved,8.2,15.5,2
+CHAT-e9b06eb2,U-00850,2025-03-11T10:02:00,technical,다운로드 안 됨,resolved,82.0,321.8,3
+CHAT-0b79ea33,U-06361,2025-03-11T18:42:00,billing,플랜 변경 방법,resolved,9.4,19.2,4
+CHAT-93342504,U-07816,2025-03-11T16:22:00,content,퀴즈 정답 오류,resolved,34.2,132.6,4
+CHAT-ff786d57,U-08574,2025-03-11T12:20:00,technical,다운로드 안 됨,resolved,20.2,64.6,1
+CHAT-5f86bda0,U-08802,2025-03-11T18:17:00,billing,플랜 변경 방법,pending,242.0,614.0,2
+CHAT-03bc6fda,U-09760,2025-03-11T13:28:00,content,퀴즈 정답 오류,resolved,182.2,653.6,2
+CHAT-4a87ab24,U-06155,2025-03-12T18:24:00,account,비밀번호 변경,pending,44.4,163.6,4
+CHAT-99ced1a3,U-09726,2025-03-12T20:17:00,technical,앱이 자주 튕겨요,resolved,78.4,310.5,4
+CHAT-55ecc231,U-00639,2025-03-13T10:48:00,account,이메일 변경,resolved,47.4,109.1,3
+CHAT-2ec36e46,U-01429,2025-03-13T13:38:00,technical,다운로드 안 됨,pending,20.4,63.8,3
+CHAT-45bbd4c9,U-03570,2025-03-13T19:14:00,billing,환불 문의,resolved,24.4,50.6,4
+CHAT-b3037263,U-04264,2025-03-13T18:48:00,billing,결제가 안 돼요,resolved,16.2,29.9,3
+CHAT-6ab65c30,U-08089,2025-03-13T09:11:00,other,강사 지원,resolved,145.3,237.3,3
+CHAT-6f8e1ace,U-09885,2025-03-13T21:03:00,content,퀴즈 정답 오류,pending,69.9,242.9,3
+CHAT-9b2d2905,U-09910,2025-03-13T16:23:00,technical,로그인 오류,pending,63.4,146.9,3
+CHAT-ab1f060a,U-09957,2025-03-13T20:45:00,billing,환불 문의,resolved,28.1,66.6,4
+CHAT-d51a966d,U-00105,2025-03-14T20:49:00,technical,다운로드 안 됨,resolved,113.7,215.5,4
+CHAT-f597993b,U-01002,2025-03-14T14:43:00,content,강의 업데이트 계획,pending,232.9,516.7,2
+CHAT-5740c7f5,U-02254,2025-03-14T11:54:00,technical,앱이 자주 튕겨요,pending,96.6,296.3,3
+CHAT-35d4690e,U-03699,2025-03-14T13:03:00,other,파트너십 제안,resolved,269.2,426.9,3
+CHAT-7b6f239f,U-05342,2025-03-14T09:05:00,content,실습 자료 누락,resolved,53.9,84.3,4
+CHAT-b2f351e0,U-05415,2025-03-14T14:51:00,billing,결제가 안 돼요,resolved,16.2,44.8,5
+CHAT-56e45341,U-08418,2025-03-14T18:05:00,billing,결제가 안 돼요,resolved,25.1,45.4,4
+CHAT-b38d899c,U-09484,2025-03-14T15:59:00,account,비밀번호 변경,pending,56.8,201.2,4
+CHAT-69721ea9,U-09908,2025-03-14T19:20:00,other,기타 문의,resolved,47.1,148.5,4
+CHAT-c340eb1e,U-03801,2025-03-15T22:06:00,technical,로그인 오류,resolved,42.8,149.1,3
+CHAT-54c1946d,U-04119,2025-03-15T17:21:00,technical,영상이 안 나와요,pending,24.2,49.1,4
+CHAT-a2effb97,U-04429,2025-03-15T17:19:00,account,탈퇴 문의,pending,24.3,81.9,3
+CHAT-0029ab98,U-09677,2025-03-15T11:27:00,other,기타 문의,pending,445.6,968.8,4
+CHAT-106b1c57,U-00004,2025-03-16T10:05:00,technical,다운로드 안 됨,resolved,117.3,216.9,3
+CHAT-751f183c,U-02065,2025-03-16T15:27:00,account,비밀번호 변경,resolved,53.4,180.3,5
+CHAT-2f47799b,U-06001,2025-03-16T14:33:00,technical,로그인 오류,resolved,70.8,265.6,3
+CHAT-bea36526,U-08268,2025-03-16T15:49:00,billing,플랜 변경 방법,pending,22.8,35.5,3
+CHAT-4ee2f254,U-08670,2025-03-16T18:35:00,billing,플랜 변경 방법,pending,15.2,58.9,5
+CHAT-e0221694,U-02400,2025-03-17T17:57:00,billing,결제 내역 확인,resolved,12.7,36.4,2
+CHAT-11f9ed44,U-05119,2025-03-17T13:19:00,billing,결제 내역 확인,resolved,9.2,26.5,4
+CHAT-287fc9bc,U-05600,2025-03-17T20:27:00,other,강사 지원,resolved,469.1,729.7,3
+CHAT-dde15239,U-05999,2025-03-17T15:40:00,account,탈퇴 문의,resolved,16.8,31.8,3
+CHAT-32707413,U-07971,2025-03-17T12:49:00,technical,앱이 자주 튕겨요,resolved,99.6,352.8,4
+CHAT-fb48cd9e,U-08526,2025-03-17T09:32:00,technical,로그인 오류,resolved,113.4,333.9,2
+CHAT-e5e96f6d,U-09388,2025-03-17T16:26:00,billing,결제 내역 확인,resolved,25.5,61.1,4
+CHAT-1733ec12,U-09402,2025-03-17T19:08:00,billing,환불 문의,resolved,27.3,100.6,4
+CHAT-34623679,U-09447,2025-03-17T20:16:00,account,탈퇴 문의,resolved,17.7,54.0,3
+CHAT-b11ebfda,U-09691,2025-03-17T20:37:00,account,프로필 수정,resolved,16.8,35.6,5
+CHAT-d0a39916,U-10145,2025-03-17T22:25:00,billing,환불 문의,resolved,25.5,69.4,2
+CHAT-886dc556,U-10291,2025-03-17T20:40:00,technical,다운로드 안 됨,resolved,62.4,182.2,3
+CHAT-04d4b3fb,U-00836,2025-03-18T17:39:00,other,파트너십 제안,resolved,433.3,654.4,2
+CHAT-57813817,U-03040,2025-03-18T14:32:00,account,탈퇴 문의,resolved,29.9,67.0,2
+CHAT-75542736,U-03505,2025-03-18T20:49:00,technical,영상이 안 나와요,resolved,80.3,191.5,4
+CHAT-c099daeb,U-07158,2025-03-18T13:59:00,content,실습 자료 누락,resolved,55.2,206.4,4
+CHAT-46ff9e61,U-08319,2025-03-18T19:50:00,account,탈퇴 문의,resolved,41.1,68.8,4
+CHAT-a00b4251,U-08716,2025-03-18T10:59:00,content,실습 자료 누락,resolved,119.3,277.0,4
+CHAT-f75e89d8,U-08899,2025-03-18T20:10:00,billing,결제 내역 확인,resolved,20.1,65.4,5
+CHAT-c3b3c73b,U-10068,2025-03-18T14:02:00,technical,로그인 오류,resolved,108.4,171.0,2
+CHAT-addce41a,U-03119,2025-03-19T18:56:00,technical,다운로드 안 됨,resolved,102.7,258.9,3
+CHAT-7a0eaef6,U-04519,2025-03-19T10:16:00,technical,영상이 안 나와요,pending,50.5,91.2,5
+CHAT-d10e1b7f,U-08865,2025-03-19T16:55:00,content,강의 업데이트 계획,resolved,110.5,382.1,4
+CHAT-0e376fa8,U-10239,2025-03-19T22:08:00,billing,결제 내역 확인,resolved,15.7,53.5,4
+CHAT-e170550f,U-00426,2025-03-20T22:09:00,billing,결제 내역 확인,resolved,19.5,49.2,4
+CHAT-9964c9c6,U-01053,2025-03-20T19:17:00,technical,로그인 오류,resolved,98.3,318.8,4
+CHAT-d05a1365,U-04126,2025-03-20T09:56:00,other,기타 문의,resolved,122.2,434.5,3
+CHAT-31a112ee,U-04527,2025-03-20T09:58:00,account,프로필 수정,resolved,34.3,122.8,4
+CHAT-65925293,U-05820,2025-03-20T13:27:00,account,프로필 수정,pending,48.0,97.8,4
+CHAT-39a247e1,U-07090,2025-03-20T20:44:00,account,비밀번호 변경,resolved,20.7,59.1,4
+CHAT-a21d0716,U-09982,2025-03-20T21:37:00,content,강의 업데이트 계획,resolved,43.7,88.6,5
+CHAT-2b36e062,U-10054,2025-03-20T14:27:00,other,파트너십 제안,resolved,420.2,747.6,2
+CHAT-a5f8b97a,U-10493,2025-03-20T11:14:00,content,실습 자료 누락,pending,202.7,780.9,3
+CHAT-7208a8b7,U-01776,2025-03-21T14:58:00,content,퀴즈 정답 오류,resolved,43.1,161.3,1
+CHAT-e3e8642f,U-02240,2025-03-21T17:20:00,account,프로필 수정,resolved,18.5,73.4,3
+CHAT-26f986dd,U-04594,2025-03-21T09:09:00,technical,영상이 안 나와요,resolved,101.5,401.1,4
+CHAT-53b684a1,U-07922,2025-03-21T09:46:00,billing,결제가 안 돼요,pending,23.7,37.0,5
+CHAT-03fcf89c,U-09524,2025-03-21T11:07:00,billing,플랜 변경 방법,pending,21.2,33.0,3
+CHAT-140ce050,U-09903,2025-03-21T21:34:00,billing,결제 내역 확인,resolved,7.8,21.1,2
+CHAT-12bf5695,U-10670,2025-03-21T09:35:00,account,비밀번호 변경,resolved,15.8,56.7,5
+CHAT-1832622c,U-10753,2025-03-21T12:32:00,other,파트너십 제안,resolved,278.0,959.0,3
+CHAT-18b5066d,U-01487,2025-03-22T21:59:00,billing,결제 내역 확인,resolved,5.2,8.1,5
+CHAT-1201554b,U-03200,2025-03-22T13:44:00,account,비밀번호 변경,resolved,44.9,74.8,3
+CHAT-21046621,U-03483,2025-03-22T15:37:00,billing,플랜 변경 방법,resolved,20.9,57.2,5
+CHAT-ae387413,U-08566,2025-03-22T12:04:00,content,퀴즈 정답 오류,resolved,232.4,574.1,1
+CHAT-dd9e1954,U-00277,2025-03-23T16:32:00,content,추가 강의 요청,pending,75.1,254.9,4
+CHAT-3b25e1d3,U-05255,2025-03-23T13:20:00,technical,로그인 오류,resolved,16.4,39.0,3
+CHAT-1ab107a2,U-08981,2025-03-23T14:04:00,billing,환불 문의,resolved,12.8,36.6,5
+CHAT-9f3d99e4,U-09574,2025-03-23T12:29:00,technical,로그인 오류,resolved,38.8,105.4,4
+CHAT-efe47732,U-09646,2025-03-23T18:45:00,billing,환불 문의,pending,233.7,748.1,3
+CHAT-d696817e,U-10361,2025-03-23T10:40:00,account,비밀번호 변경,pending,46.5,84.9,4
+CHAT-b5371dd5,U-10933,2025-03-23T22:43:00,content,실습 자료 누락,resolved,204.6,664.2,2
+CHAT-284e8366,U-01005,2025-03-24T22:50:00,technical,다운로드 안 됨,resolved,87.8,191.3,2
+CHAT-406c0b6c,U-05186,2025-03-24T13:02:00,billing,결제 내역 확인,resolved,29.2,51.4,5
+CHAT-c9e3e649,U-05523,2025-03-24T11:58:00,content,실습 자료 누락,pending,150.5,285.1,1
+CHAT-9d9e338c,U-06019,2025-03-24T13:22:00,content,추가 강의 요청,resolved,70.4,172.3,3
+CHAT-165b8949,U-06114,2025-03-24T10:49:00,technical,영상이 안 나와요,resolved,20.0,62.1,2
+CHAT-eec81fb4,U-06302,2025-03-24T11:06:00,billing,환불 문의,resolved,18.2,51.0,3
+CHAT-d107a3d5,U-07743,2025-03-24T12:39:00,technical,다운로드 안 됨,resolved,45.3,177.7,4
+CHAT-fadc0ae3,U-09334,2025-03-24T20:28:00,billing,플랜 변경 방법,resolved,9.2,34.8,5
+CHAT-356ca3fb,U-10081,2025-03-24T15:54:00,billing,플랜 변경 방법,resolved,26.1,102.7,3
+CHAT-941ffc8d,U-10579,2025-03-24T11:09:00,other,파트너십 제안,resolved,244.2,706.5,2
+CHAT-25fcafcb,U-10882,2025-03-24T09:08:00,technical,앱이 자주 튕겨요,resolved,87.9,298.9,3
+CHAT-a4102f6b,U-00058,2025-03-25T17:48:00,content,실습 자료 누락,resolved,34.8,83.5,4
+CHAT-60e8d6e3,U-00511,2025-03-25T22:18:00,billing,환불 문의,resolved,7.4,23.2,5
+CHAT-34a6b75d,U-00785,2025-03-25T12:13:00,account,이메일 변경,resolved,41.6,158.4,5
+CHAT-8bbd6853,U-04251,2025-03-25T11:54:00,billing,환불 문의,resolved,8.2,21.5,2
+CHAT-19bc312c,U-04497,2025-03-25T10:56:00,other,파트너십 제안,resolved,349.8,1208.8,1
+CHAT-4e22a944,U-04519,2025-03-25T19:49:00,content,퀴즈 정답 오류,resolved,65.4,193.8,2
+CHAT-81b53ff9,U-06252,2025-03-25T16:23:00,technical,다운로드 안 됨,resolved,63.6,102.3,3
+CHAT-501e0de9,U-07395,2025-03-25T14:11:00,billing,환불 문의,resolved,10.9,34.5,4
+CHAT-4288396d,U-07833,2025-03-25T09:35:00,content,강의 업데이트 계획,resolved,31.3,73.0,5
+CHAT-cff431cb,U-09709,2025-03-25T15:16:00,other,기타 문의,resolved,274.0,590.0,4
+CHAT-a9c2e618,U-09826,2025-03-25T19:34:00,technical,영상이 안 나와요,resolved,119.7,409.1,3
+CHAT-c5e05d31,U-10478,2025-03-25T17:21:00,technical,다운로드 안 됨,resolved,42.6,101.6,2
+CHAT-1178626f,U-00238,2025-03-26T10:33:00,content,퀴즈 정답 오류,resolved,103.3,253.2,3
+CHAT-9be353b7,U-03757,2025-03-26T18:33:00,content,추가 강의 요청,pending,47.9,171.7,3
+CHAT-f6d8e988,U-05301,2025-03-26T18:53:00,other,강사 지원,pending,243.1,911.7,2
+CHAT-e091746d,U-10019,2025-03-26T14:54:00,billing,결제가 안 돼요,resolved,369.8,1136.5,2
+CHAT-2044170e,U-10375,2025-03-26T17:36:00,other,강사 지원,resolved,339.7,1321.4,2
+CHAT-1a165ba4,U-10497,2025-03-26T12:05:00,content,강의 업데이트 계획,pending,77.9,291.1,2
+CHAT-545db6db,U-11011,2025-03-26T10:23:00,account,프로필 수정,resolved,54.7,115.4,5
+CHAT-54a52088,U-02209,2025-03-27T18:50:00,technical,앱이 자주 튕겨요,pending,48.0,149.8,5
+CHAT-c19a1fb5,U-03457,2025-03-27T12:49:00,technical,로그인 오류,resolved,53.8,134.0,3
+CHAT-daf07aa7,U-05430,2025-03-27T16:02:00,content,강의 업데이트 계획,resolved,52.5,116.7,3
+CHAT-3b171450,U-06051,2025-03-27T16:45:00,billing,결제 내역 확인,resolved,6.6,23.9,5
+CHAT-9e9f9dd7,U-06342,2025-03-27T13:27:00,other,파트너십 제안,resolved,470.8,1336.9,3
+CHAT-f00e27be,U-07338,2025-03-27T09:36:00,content,강의 업데이트 계획,pending,235.2,861.1,4
+CHAT-d7c7c300,U-09853,2025-03-27T20:50:00,billing,환불 문의,resolved,20.7,42.2,4
+CHAT-3ac8b03e,U-10125,2025-03-27T13:03:00,billing,플랜 변경 방법,resolved,7.4,16.2,4
+CHAT-e7eb4b08,U-10612,2025-03-27T18:09:00,technical,다운로드 안 됨,pending,62.6,137.9,3
+CHAT-18b17ebd,U-10633,2025-03-27T16:30:00,billing,결제 내역 확인,resolved,13.0,20.1,4
+CHAT-03ec0c67,U-11385,2025-03-27T20:23:00,account,비밀번호 변경,pending,55.3,116.7,4
+CHAT-a516ebbb,U-11418,2025-03-27T09:15:00,billing,환불 문의,resolved,23.1,59.3,4
+CHAT-7e16b630,U-00004,2025-03-28T10:36:00,content,강의 업데이트 계획,pending,168.4,314.6,2
+CHAT-a50564fe,U-01229,2025-03-28T21:20:00,other,파트너십 제안,resolved,320.9,1110.5,1
+CHAT-f9729d1f,U-02869,2025-03-28T14:40:00,billing,플랜 변경 방법,resolved,9.1,33.4,5
+CHAT-3791ad02,U-02883,2025-03-28T19:47:00,content,추가 강의 요청,resolved,205.0,615.8,2
+CHAT-dd364d6f,U-03676,2025-03-28T17:10:00,other,파트너십 제안,resolved,121.1,297.3,3
+CHAT-41807f77,U-05600,2025-03-28T20:54:00,account,탈퇴 문의,pending,21.2,43.1,4
+CHAT-f26db891,U-05636,2025-03-28T12:53:00,other,파트너십 제안,resolved,66.8,198.3,3
+CHAT-c9a073af,U-05858,2025-03-28T20:18:00,technical,로그인 오류,resolved,58.0,127.3,2
+CHAT-5b125f25,U-07239,2025-03-28T18:38:00,billing,환불 문의,resolved,22.4,46.5,3
+CHAT-e4167477,U-08366,2025-03-28T21:51:00,account,프로필 수정,resolved,20.6,72.1,2
+CHAT-02698e4d,U-09939,2025-03-28T19:55:00,billing,결제가 안 돼요,resolved,15.2,23.8,4
+CHAT-70e950a6,U-10347,2025-03-28T17:30:00,billing,결제가 안 돼요,resolved,29.9,49.2,5
+CHAT-355c2e93,U-10888,2025-03-28T12:07:00,account,이메일 변경,pending,45.7,177.6,4
+CHAT-109321e5,U-11468,2025-03-28T12:11:00,billing,결제가 안 돼요,resolved,27.3,102.8,3
+CHAT-b2e6305e,U-00580,2025-03-29T12:56:00,other,기타 문의,resolved,281.0,860.5,2
+CHAT-17ebda1b,U-03562,2025-03-29T22:46:00,account,프로필 수정,pending,44.1,144.5,1
+CHAT-88a364fd,U-06323,2025-03-29T16:05:00,technical,로그인 오류,resolved,106.9,167.1,2
+CHAT-4d116243,U-07605,2025-03-29T19:50:00,billing,플랜 변경 방법,resolved,14.5,48.1,5
+CHAT-e7506fe7,U-09533,2025-03-29T18:28:00,account,비밀번호 변경,pending,12.9,41.6,5
+CHAT-a40e4d25,U-09709,2025-03-29T20:34:00,content,강의 업데이트 계획,resolved,233.2,493.0,4
+CHAT-72872324,U-11228,2025-03-29T14:24:00,technical,영상이 안 나와요,resolved,101.4,300.2,2
+CHAT-c17a8e3d,U-02623,2025-03-30T13:38:00,billing,환불 문의,resolved,16.4,47.8,4
+CHAT-6da768d5,U-03253,2025-03-30T19:11:00,account,이메일 변경,resolved,39.1,131.9,4
+CHAT-4d25e080,U-04506,2025-03-30T13:23:00,account,이메일 변경,resolved,56.6,87.2,5
+CHAT-d18a4788,U-09769,2025-03-30T15:00:00,technical,영상이 안 나와요,resolved,51.0,112.9,5
+CHAT-ffd79e1a,U-10657,2025-03-30T19:49:00,technical,로그인 오류,resolved,61.6,205.2,3
+CHAT-ef3c7326,U-11366,2025-03-30T21:29:00,other,강사 지원,pending,135.3,512.3,4
+CHAT-ef61e033,U-00107,2025-03-31T15:48:00,account,프로필 수정,resolved,26.8,82.1,4
+CHAT-bf1c736e,U-00358,2025-03-31T20:11:00,account,탈퇴 문의,pending,40.7,152.9,5
+CHAT-4e309491,U-01229,2025-03-31T21:16:00,technical,로그인 오류,resolved,67.8,245.2,2
+CHAT-9b9554a6,U-02067,2025-03-31T22:33:00,content,퀴즈 정답 오류,resolved,164.2,453.6,1
+CHAT-f69b88de,U-03250,2025-03-31T19:46:00,technical,앱이 자주 튕겨요,resolved,84.4,252.2,3
+CHAT-e4d3b858,U-11574,2025-03-31T09:30:00,billing,결제가 안 돼요,resolved,17.6,70.4,5
+CHAT-c0fee29f,U-11861,2025-03-31T11:34:00,other,강사 지원,resolved,345.3,963.2,3
+CHAT-7a8c5334,U-03867,2025-04-01T14:13:00,technical,앱이 자주 튕겨요,resolved,106.2,229.8,3
+CHAT-ebf63f7e,U-07450,2025-04-01T10:33:00,other,기타 문의,resolved,117.5,348.8,2
+CHAT-b71569ac,U-08936,2025-04-01T13:12:00,content,실습 자료 누락,resolved,47.7,163.0,4
+CHAT-3c026b59,U-10735,2025-04-01T19:07:00,billing,결제가 안 돼요,pending,8.5,23.7,4
+CHAT-cafe2459,U-11906,2025-04-01T18:49:00,technical,앱이 자주 튕겨요,resolved,79.6,176.1,3
+CHAT-0d66cfee,U-00385,2025-04-02T09:21:00,content,실습 자료 누락,pending,41.8,103.2,2
+CHAT-3eb7acc4,U-00625,2025-04-02T20:59:00,content,실습 자료 누락,resolved,208.2,809.6,1
+CHAT-79554b46,U-02183,2025-04-02T09:09:00,billing,플랜 변경 방법,resolved,16.6,30.9,4
+CHAT-e4c91abc,U-05106,2025-04-02T22:54:00,billing,결제가 안 돼요,pending,16.8,31.6,5
+CHAT-9a5a0ade,U-05954,2025-04-02T17:11:00,billing,결제가 안 돼요,resolved,20.4,52.0,4
+CHAT-9be7edb0,U-07646,2025-04-02T12:53:00,content,실습 자료 누락,resolved,126.1,339.3,4
+CHAT-4bff4075,U-10439,2025-04-02T18:17:00,technical,다운로드 안 됨,resolved,37.7,77.2,3
+CHAT-6efd27fa,U-11596,2025-04-02T11:09:00,other,강사 지원,resolved,85.6,292.6,3
+CHAT-5d0c9783,U-02006,2025-04-03T12:01:00,content,실습 자료 누락,pending,85.8,293.0,3
+CHAT-cfe82ddb,U-02249,2025-04-03T13:52:00,billing,환불 문의,resolved,27.5,61.0,4
+CHAT-5bb8bfbc,U-02476,2025-04-03T21:42:00,other,기타 문의,pending,325.7,940.0,4
+CHAT-6c153078,U-03096,2025-04-03T11:37:00,content,추가 강의 요청,resolved,209.8,434.1,2
+CHAT-1b7fe075,U-04311,2025-04-03T15:26:00,technical,앱이 자주 튕겨요,resolved,98.5,381.5,3
+CHAT-203cbb9f,U-05610,2025-04-03T14:20:00,technical,로그인 오류,resolved,38.0,140.0,5
+CHAT-84c3ab15,U-06013,2025-04-03T15:22:00,other,파트너십 제안,resolved,227.9,613.9,4
+CHAT-40f2e3c5,U-06533,2025-04-03T17:28:00,billing,결제가 안 돼요,resolved,22.2,63.4,4
+CHAT-a1532f1e,U-09170,2025-04-03T21:35:00,billing,플랜 변경 방법,pending,25.4,42.3,3
+CHAT-9e31551d,U-10632,2025-04-03T17:09:00,billing,결제 내역 확인,resolved,24.5,92.0,4
+CHAT-95dc975b,U-11557,2025-04-03T17:03:00,technical,영상이 안 나와요,resolved,29.6,110.1,3
+CHAT-cd8dfebf,U-01070,2025-04-04T19:35:00,billing,플랜 변경 방법,resolved,14.0,54.0,3
+CHAT-9cb6629c,U-01233,2025-04-04T12:00:00,technical,영상이 안 나와요,resolved,25.3,83.2,4
+CHAT-af667368,U-05041,2025-04-04T22:50:00,technical,영상이 안 나와요,pending,60.8,220.0,2
+CHAT-79e2460b,U-05792,2025-04-04T20:43:00,billing,플랜 변경 방법,resolved,17.9,40.9,3
+CHAT-e88eb006,U-06355,2025-04-04T10:38:00,account,비밀번호 변경,resolved,48.7,153.9,2
+CHAT-a8bb8e29,U-08600,2025-04-04T14:15:00,content,강의 업데이트 계획,resolved,68.8,264.4,1
+CHAT-93f073ff,U-08694,2025-04-04T15:30:00,technical,앱이 자주 튕겨요,resolved,45.7,97.4,2
+CHAT-1d8e3c22,U-01789,2025-04-05T19:21:00,billing,결제가 안 돼요,resolved,17.2,37.4,4
+CHAT-d79b6748,U-02941,2025-04-05T15:45:00,account,탈퇴 문의,resolved,46.8,102.0,4
+CHAT-36891805,U-03091,2025-04-05T14:15:00,billing,환불 문의,resolved,24.0,50.8,1
+CHAT-0aca2473,U-04058,2025-04-05T22:53:00,technical,앱이 자주 튕겨요,resolved,113.8,309.1,4
+CHAT-ef7a1dfc,U-07362,2025-04-05T16:37:00,technical,앱이 자주 튕겨요,pending,46.1,159.0,1
+CHAT-668ccaeb,U-07937,2025-04-05T09:56:00,technical,영상이 안 나와요,resolved,20.1,61.4,4
+CHAT-00ef528c,U-10513,2025-04-05T14:07:00,account,이메일 변경,resolved,40.3,144.9,4
+CHAT-ea6a1f68,U-12001,2025-04-05T19:06:00,technical,영상이 안 나와요,resolved,88.6,173.3,3
+CHAT-c41d15a7,U-12274,2025-04-05T21:08:00,content,강의 업데이트 계획,resolved,37.7,69.6,4
+CHAT-ec84820a,U-02891,2025-04-06T18:36:00,content,실습 자료 누락,resolved,85.3,316.6,2
+CHAT-e4870dbb,U-04514,2025-04-06T12:56:00,content,퀴즈 정답 오류,pending,118.6,301.6,2
+CHAT-874276e0,U-06742,2025-04-06T12:30:00,account,프로필 수정,pending,12.6,30.1,3
+CHAT-e9af1e76,U-09023,2025-04-06T13:00:00,content,퀴즈 정답 오류,resolved,179.8,528.4,3
+CHAT-52324caa,U-12461,2025-04-06T21:28:00,technical,로그인 오류,resolved,91.7,317.2,2
+CHAT-46130e63,U-12512,2025-04-06T18:35:00,billing,결제 내역 확인,resolved,29.2,93.0,2
+CHAT-5178ca85,U-00145,2025-04-07T15:56:00,technical,로그인 오류,resolved,100.5,205.8,4
+CHAT-93dc4abd,U-05395,2025-04-07T13:36:00,billing,플랜 변경 방법,resolved,9.9,23.0,3
+CHAT-aab3c8a3,U-09190,2025-04-07T09:11:00,technical,다운로드 안 됨,resolved,110.3,370.8,3
+CHAT-00e37d1d,U-10458,2025-04-07T18:33:00,billing,플랜 변경 방법,resolved,410.9,983.3,3
+CHAT-7e4258ab,U-11029,2025-04-07T16:49:00,billing,환불 문의,resolved,18.2,66.7,3
+CHAT-9f249701,U-04660,2025-04-08T16:01:00,other,기타 문의,resolved,35.7,58.7,3
+CHAT-56e4e6f7,U-06342,2025-04-08T21:13:00,technical,앱이 자주 튕겨요,pending,30.3,97.7,4
+CHAT-f9fad3d9,U-08600,2025-04-08T15:30:00,billing,플랜 변경 방법,resolved,23.0,52.0,5
+CHAT-d8d5641a,U-09803,2025-04-08T10:30:00,billing,결제 내역 확인,pending,26.1,50.2,4
+CHAT-f6fca6c9,U-10023,2025-04-08T22:14:00,billing,결제가 안 돼요,resolved,10.1,32.4,5
+CHAT-ab216bc9,U-11485,2025-04-08T12:32:00,billing,플랜 변경 방법,resolved,368.8,1328.4,4
+CHAT-a41221ec,U-11701,2025-04-08T11:48:00,content,강의 업데이트 계획,resolved,193.3,508.2,1
+CHAT-fbefd31b,U-11813,2025-04-08T20:10:00,billing,결제 내역 확인,resolved,28.1,49.7,2
+CHAT-facf95a2,U-12059,2025-04-08T22:11:00,account,탈퇴 문의,resolved,38.8,137.4,3
+CHAT-9225ba8e,U-12115,2025-04-08T15:08:00,billing,플랜 변경 방법,resolved,20.7,35.1,4
+CHAT-caf122ba,U-00618,2025-04-09T09:45:00,technical,앱이 자주 튕겨요,resolved,95.5,192.4,4
+CHAT-cd164ff2,U-05041,2025-04-09T21:41:00,content,추가 강의 요청,resolved,168.8,514.9,4
+CHAT-f1b1cb43,U-05382,2025-04-09T11:17:00,technical,앱이 자주 튕겨요,resolved,57.2,162.3,1
+CHAT-bc21aacb,U-05413,2025-04-09T22:41:00,technical,영상이 안 나와요,resolved,45.3,153.5,5
+CHAT-c44d86ca,U-07069,2025-04-09T16:54:00,content,실습 자료 누락,resolved,236.1,869.6,3
+CHAT-2e406bc9,U-07264,2025-04-09T10:36:00,technical,로그인 오류,pending,76.3,242.8,3
+CHAT-4b779514,U-07380,2025-04-09T17:43:00,technical,영상이 안 나와요,resolved,103.7,355.2,4
+CHAT-752c0479,U-09226,2025-04-09T15:15:00,billing,결제가 안 돼요,pending,10.6,41.8,3
+CHAT-be0ea6fc,U-09709,2025-04-09T12:07:00,technical,앱이 자주 튕겨요,resolved,109.1,433.7,4
+CHAT-adbb3666,U-10325,2025-04-09T17:44:00,billing,결제 내역 확인,resolved,10.7,33.4,5
+CHAT-a60c82d6,U-11984,2025-04-09T15:59:00,technical,영상이 안 나와요,pending,66.8,260.2,4
+CHAT-5d32527c,U-12055,2025-04-09T11:06:00,technical,앱이 자주 튕겨요,resolved,93.0,364.4,3
+CHAT-3d2432a7,U-12128,2025-04-09T17:40:00,technical,앱이 자주 튕겨요,resolved,24.3,39.1,3
+CHAT-01114771,U-12527,2025-04-09T10:21:00,billing,플랜 변경 방법,resolved,28.2,98.7,2
+CHAT-78285435,U-12799,2025-04-09T21:05:00,billing,환불 문의,pending,18.3,72.0,5
+CHAT-12517d2c,U-00110,2025-04-10T19:41:00,other,강사 지원,resolved,413.4,1503.7,2
+CHAT-8c93a223,U-04596,2025-04-10T20:46:00,billing,플랜 변경 방법,resolved,5.2,9.2,4
+CHAT-b1d04c1a,U-07733,2025-04-10T11:16:00,other,기타 문의,resolved,449.5,1262.5,3
+CHAT-5c4133cb,U-09409,2025-04-10T20:14:00,other,기타 문의,resolved,202.3,412.1,1
+CHAT-1feb8678,U-10096,2025-04-10T21:33:00,other,파트너십 제안,resolved,97.7,388.3,3
+CHAT-1587d181,U-11914,2025-04-10T20:11:00,content,퀴즈 정답 오류,resolved,93.7,199.3,4
+CHAT-2a1cf934,U-06386,2025-04-11T21:27:00,technical,다운로드 안 됨,pending,85.6,201.9,3
+CHAT-33580bba,U-08296,2025-04-11T22:33:00,content,강의 업데이트 계획,resolved,67.2,167.7,2
+CHAT-f7d82589,U-11790,2025-04-11T19:01:00,billing,결제 내역 확인,resolved,23.9,40.4,4
+CHAT-1294fe30,U-12589,2025-04-11T15:07:00,billing,환불 문의,resolved,5.5,10.5,5
+CHAT-a41ee6fc,U-12897,2025-04-11T10:51:00,content,강의 업데이트 계획,pending,180.5,320.7,3
+CHAT-60a8c401,U-13022,2025-04-11T15:46:00,technical,로그인 오류,pending,15.4,34.2,5
+CHAT-d8a4e0e5,U-13082,2025-04-11T22:09:00,billing,결제가 안 돼요,resolved,29.4,59.2,2
+CHAT-887114ae,U-02513,2025-04-12T10:02:00,account,이메일 변경,pending,36.4,100.2,5
+CHAT-63c6c7c5,U-03939,2025-04-12T22:03:00,content,추가 강의 요청,resolved,204.3,762.7,2
+CHAT-953830be,U-06765,2025-04-13T20:03:00,technical,영상이 안 나와요,resolved,23.5,35.9,4
+CHAT-1fbe3aba,U-07383,2025-04-13T17:39:00,content,실습 자료 누락,resolved,234.8,456.2,4
+CHAT-1fd27870,U-09962,2025-04-13T09:18:00,billing,결제가 안 돼요,resolved,9.7,33.8,5
+CHAT-44a76943,U-11325,2025-04-13T12:28:00,account,프로필 수정,resolved,46.7,105.5,4
+CHAT-8c0e473d,U-12137,2025-04-13T12:16:00,billing,결제가 안 돼요,resolved,29.1,64.6,4
+CHAT-90734643,U-01412,2025-04-14T15:48:00,technical,영상이 안 나와요,pending,23.5,89.6,4
+CHAT-7a460e17,U-03364,2025-04-14T09:43:00,content,추가 강의 요청,resolved,88.4,169.1,1
+CHAT-9c6472fc,U-03812,2025-04-14T22:15:00,content,실습 자료 누락,resolved,175.1,533.0,1
+CHAT-6080d509,U-06341,2025-04-14T16:05:00,billing,환불 문의,pending,15.3,59.1,4
+CHAT-c5a8ff17,U-06553,2025-04-14T16:27:00,other,강사 지원,resolved,95.3,367.8,4
+CHAT-9e67c078,U-07022,2025-04-14T11:00:00,content,실습 자료 누락,resolved,146.2,555.1,4
+CHAT-82568a8e,U-07081,2025-04-14T15:55:00,account,이메일 변경,resolved,57.6,197.6,4
+CHAT-b47fbe6c,U-08341,2025-04-14T19:41:00,technical,영상이 안 나와요,resolved,46.7,156.6,5
+CHAT-1d57d3f0,U-09742,2025-04-14T17:12:00,technical,로그인 오류,resolved,40.3,62.4,4
+CHAT-86132826,U-11276,2025-04-14T16:05:00,account,프로필 수정,pending,59.9,150.3,4
+CHAT-3580a0af,U-12290,2025-04-14T22:00:00,billing,플랜 변경 방법,pending,29.2,84.4,4
+CHAT-20a2dea1,U-13143,2025-04-14T09:33:00,content,실습 자료 누락,resolved,169.4,326.5,3
+CHAT-4f3eda65,U-13373,2025-04-14T21:01:00,account,비밀번호 변경,resolved,13.7,48.4,4
+CHAT-25f2594c,U-00460,2025-04-15T11:31:00,technical,다운로드 안 됨,resolved,119.7,402.1,1
+CHAT-d790e0d0,U-00673,2025-04-15T15:43:00,technical,로그인 오류,resolved,86.7,130.9,2
+CHAT-40728d94,U-04802,2025-04-15T13:31:00,other,기타 문의,pending,479.8,1202.6,3
+CHAT-4ab57903,U-07937,2025-04-15T15:11:00,billing,결제 내역 확인,resolved,11.1,19.3,3
+CHAT-2edd3a52,U-08534,2025-04-15T19:48:00,account,프로필 수정,resolved,23.1,55.0,4
+CHAT-7511f5a0,U-09787,2025-04-15T16:31:00,billing,결제가 안 돼요,pending,27.4,45.3,4
+CHAT-3f453c7f,U-10911,2025-04-15T21:22:00,content,실습 자료 누락,resolved,197.7,570.7,2
+CHAT-4c3f83e6,U-13203,2025-04-15T15:36:00,content,퀴즈 정답 오류,resolved,140.2,339.0,3
+CHAT-3e9d3875,U-01613,2025-04-16T20:04:00,content,퀴즈 정답 오류,resolved,181.5,479.3,4
+CHAT-929e7e2c,U-02373,2025-04-16T16:46:00,content,실습 자료 누락,resolved,67.7,114.7,4
+CHAT-4b28ba0d,U-03986,2025-04-16T11:59:00,content,추가 강의 요청,resolved,182.0,725.2,2
+CHAT-dce31f4d,U-04690,2025-04-16T16:44:00,content,실습 자료 누락,resolved,239.4,547.4,2
+CHAT-e798ca3c,U-09626,2025-04-16T20:01:00,technical,앱이 자주 튕겨요,pending,93.1,308.8,1
+CHAT-98c59956,U-10489,2025-04-16T12:52:00,billing,결제가 안 돼요,resolved,12.6,35.8,2
+CHAT-65c89120,U-10499,2025-04-16T14:28:00,billing,결제 내역 확인,resolved,24.0,75.8,4
+CHAT-954adcb9,U-11129,2025-04-16T14:15:00,content,퀴즈 정답 오류,resolved,37.0,113.6,3
+CHAT-bf042d8b,U-00141,2025-04-17T18:52:00,other,기타 문의,resolved,228.5,725.8,2
+CHAT-8aff483e,U-01816,2025-04-17T19:17:00,technical,다운로드 안 됨,resolved,64.7,249.9,3
+CHAT-55d9a4e0,U-02165,2025-04-17T11:24:00,technical,영상이 안 나와요,resolved,110.7,389.8,4
+CHAT-6983d1b9,U-02183,2025-04-17T19:25:00,billing,환불 문의,resolved,15.5,49.4,4
+CHAT-f301cbef,U-02604,2025-04-17T12:12:00,content,강의 업데이트 계획,resolved,94.9,346.8,2
+CHAT-30b48a21,U-03219,2025-04-17T22:07:00,account,이메일 변경,resolved,30.7,95.8,1
+CHAT-a7fa85d3,U-03309,2025-04-17T21:35:00,account,탈퇴 문의,resolved,27.8,59.9,4
+CHAT-08815304,U-04519,2025-04-17T10:32:00,billing,결제가 안 돼요,resolved,26.0,67.5,3
+CHAT-14a11653,U-10117,2025-04-17T19:10:00,other,파트너십 제안,pending,176.5,271.9,2
+CHAT-c9dd4379,U-12374,2025-04-17T11:04:00,content,강의 업데이트 계획,pending,40.0,107.3,4
+CHAT-f4c01c45,U-13380,2025-04-17T17:58:00,technical,로그인 오류,pending,36.4,108.4,5
+CHAT-e90ebe68,U-13476,2025-04-17T14:50:00,billing,플랜 변경 방법,resolved,28.4,98.8,3
+CHAT-d552cfc0,U-13745,2025-04-17T14:32:00,technical,다운로드 안 됨,pending,24.7,47.9,3
+CHAT-9d87ec2a,U-00792,2025-04-18T22:30:00,other,기타 문의,pending,336.4,789.6,4
+CHAT-18dfb17f,U-01848,2025-04-18T11:38:00,content,실습 자료 누락,resolved,197.9,501.4,3
+CHAT-3695e387,U-03982,2025-04-18T09:01:00,content,추가 강의 요청,resolved,108.3,321.5,3
+CHAT-4421fc3f,U-04289,2025-04-18T10:31:00,content,강의 업데이트 계획,resolved,65.6,178.2,3
+CHAT-eabe568d,U-04987,2025-04-18T19:45:00,content,퀴즈 정답 오류,pending,198.2,500.0,4
+CHAT-3e7c6871,U-06268,2025-04-18T13:29:00,content,강의 업데이트 계획,resolved,65.3,142.0,2
+CHAT-805ab4df,U-07536,2025-04-18T14:07:00,account,이메일 변경,resolved,43.6,119.4,2
+CHAT-9a9d908a,U-10797,2025-04-18T15:04:00,billing,결제 내역 확인,resolved,11.5,30.4,3
+CHAT-eabad57b,U-11921,2025-04-18T17:39:00,content,퀴즈 정답 오류,resolved,62.4,118.9,1
+CHAT-9a42aa37,U-13302,2025-04-18T16:39:00,technical,다운로드 안 됨,resolved,81.1,276.7,4
+CHAT-43071e6f,U-13353,2025-04-18T21:56:00,account,이메일 변경,resolved,29.8,105.5,3
+CHAT-222e54de,U-13836,2025-04-18T19:39:00,content,강의 업데이트 계획,resolved,92.1,357.3,3
+CHAT-ee0ceae4,U-00712,2025-04-19T11:10:00,content,퀴즈 정답 오류,resolved,171.0,519.9,3
+CHAT-58feabe0,U-02565,2025-04-19T10:40:00,technical,영상이 안 나와요,pending,96.0,209.4,4
+CHAT-88822788,U-04217,2025-04-19T10:54:00,other,기타 문의,pending,170.2,355.8,2
+CHAT-c75a6c69,U-06178,2025-04-19T22:40:00,technical,로그인 오류,resolved,93.9,303.5,3
+CHAT-4364dae7,U-04311,2025-04-20T10:49:00,billing,결제 내역 확인,pending,28.4,98.3,4
+CHAT-86dc8f7b,U-04429,2025-04-20T11:24:00,content,실습 자료 누락,resolved,124.1,219.7,4
+CHAT-4c762dab,U-04819,2025-04-20T13:39:00,account,비밀번호 변경,resolved,55.7,196.9,4
+CHAT-fb9829f4,U-05638,2025-04-20T11:50:00,other,파트너십 제안,resolved,354.7,1412.4,3
+CHAT-de306900,U-07338,2025-04-20T09:10:00,technical,영상이 안 나와요,resolved,103.8,352.8,2
+CHAT-b27cf365,U-09655,2025-04-20T13:40:00,technical,앱이 자주 튕겨요,resolved,36.0,58.0,4
+CHAT-afcc7dbf,U-09853,2025-04-20T12:29:00,technical,로그인 오류,resolved,28.2,54.7,4
+CHAT-6349cb2c,U-11719,2025-04-20T13:57:00,other,파트너십 제안,resolved,105.5,180.3,4
+CHAT-6ed80eda,U-11967,2025-04-20T18:44:00,technical,로그인 오류,resolved,63.9,169.8,1
+CHAT-ca11abec,U-14016,2025-04-20T18:20:00,account,프로필 수정,pending,12.0,28.8,4
+CHAT-0f0254c1,U-02904,2025-04-21T18:23:00,content,추가 강의 요청,resolved,94.5,365.9,4
+CHAT-381a1a14,U-05577,2025-04-21T22:26:00,content,강의 업데이트 계획,resolved,140.1,444.3,4
+CHAT-f69d9065,U-05808,2025-04-21T15:44:00,content,강의 업데이트 계획,resolved,46.5,147.2,3
+CHAT-a7f3f5d2,U-07972,2025-04-21T14:04:00,content,추가 강의 요청,resolved,154.6,324.3,4
+CHAT-a5db1d12,U-09651,2025-04-21T19:53:00,account,비밀번호 변경,pending,55.2,172.0,1
+CHAT-8eede72f,U-10796,2025-04-21T15:17:00,billing,결제가 안 돼요,resolved,20.8,61.7,4
+CHAT-b2e6d573,U-12113,2025-04-21T16:36:00,billing,환불 문의,resolved,20.8,58.2,4
+CHAT-7ec30481,U-12912,2025-04-21T10:57:00,technical,앱이 자주 튕겨요,pending,45.3,125.0,4
+CHAT-ef0e3ee2,U-13555,2025-04-21T17:36:00,content,퀴즈 정답 오류,resolved,204.7,338.5,3
+CHAT-a1d13e5c,U-14020,2025-04-21T16:43:00,billing,플랜 변경 방법,resolved,11.5,19.3,3
+CHAT-d7eb291d,U-00713,2025-04-22T16:04:00,content,강의 업데이트 계획,resolved,236.5,425.7,1
+CHAT-1048d3ce,U-02941,2025-04-22T09:35:00,content,실습 자료 누락,resolved,107.4,398.1,2
+CHAT-9000dfd8,U-03026,2025-04-22T14:04:00,content,추가 강의 요청,resolved,206.6,386.8,3
+CHAT-e3b3c324,U-03940,2025-04-22T15:16:00,other,강사 지원,resolved,77.9,133.5,2
+CHAT-e34254cb,U-05026,2025-04-22T20:03:00,billing,플랜 변경 방법,resolved,13.7,29.6,3
+CHAT-a8fdf89e,U-06742,2025-04-22T18:02:00,other,강사 지원,pending,437.2,893.3,4
+CHAT-ca20e796,U-09906,2025-04-22T14:11:00,account,이메일 변경,pending,57.2,221.3,1
+CHAT-6a80b553,U-12382,2025-04-22T12:22:00,billing,결제가 안 돼요,pending,9.5,37.4,3
+CHAT-d96df2b2,U-12479,2025-04-22T20:51:00,content,추가 강의 요청,resolved,60.8,215.6,1
+CHAT-69029acd,U-13341,2025-04-22T18:03:00,billing,플랜 변경 방법,resolved,9.4,24.2,5
+CHAT-a8c3aafc,U-00317,2025-04-23T11:54:00,technical,영상이 안 나와요,pending,49.5,187.6,3
+CHAT-894059ea,U-00454,2025-04-23T21:21:00,content,강의 업데이트 계획,resolved,117.0,390.3,4
+CHAT-cb3200bd,U-00599,2025-04-23T14:00:00,billing,결제가 안 돼요,resolved,24.7,41.8,5
+CHAT-d78354bf,U-01146,2025-04-23T10:19:00,other,강사 지원,resolved,191.5,655.1,1
+CHAT-77c5d495,U-01393,2025-04-23T09:55:00,billing,플랜 변경 방법,resolved,16.7,26.3,5
+CHAT-a2df0b12,U-01885,2025-04-23T22:04:00,content,퀴즈 정답 오류,resolved,43.9,140.4,4
+CHAT-64812463,U-05624,2025-04-23T12:15:00,billing,플랜 변경 방법,pending,28.7,96.5,4
+CHAT-716a1b33,U-06174,2025-04-23T16:12:00,technical,로그인 오류,resolved,119.7,326.8,2
+CHAT-ecbf710e,U-06728,2025-04-23T14:30:00,technical,로그인 오류,resolved,105.4,350.6,3
+CHAT-2c354430,U-07218,2025-04-23T17:18:00,other,기타 문의,resolved,292.9,547.7,2
+CHAT-393876ee,U-10744,2025-04-23T14:54:00,other,강사 지원,resolved,64.0,193.0,2
+CHAT-2bfd163e,U-14200,2025-04-23T16:58:00,account,이메일 변경,resolved,19.7,31.9,5
+CHAT-6ef3a631,U-14547,2025-04-23T22:41:00,technical,앱이 자주 튕겨요,resolved,101.7,372.2,2
+CHAT-a5eaa5bb,U-00535,2025-04-24T17:11:00,technical,다운로드 안 됨,pending,22.8,75.6,5
+CHAT-1a27a917,U-02281,2025-04-24T16:38:00,technical,로그인 오류,pending,119.6,355.4,3
+CHAT-6e5c427b,U-05696,2025-04-24T13:41:00,other,강사 지원,pending,309.1,1212.8,3
+CHAT-58be2dc6,U-07263,2025-04-24T11:54:00,technical,로그인 오류,resolved,98.4,172.1,3
+CHAT-d49a6402,U-08225,2025-04-24T13:45:00,billing,결제 내역 확인,resolved,5.6,21.7,5
+CHAT-6ceaa5bc,U-08472,2025-04-24T19:21:00,billing,환불 문의,resolved,5.6,15.8,4
+CHAT-cdd4703a,U-10134,2025-04-24T12:09:00,technical,다운로드 안 됨,resolved,72.7,225.8,1
+CHAT-60ddd0af,U-12711,2025-04-24T20:47:00,technical,다운로드 안 됨,resolved,46.6,154.0,4
+CHAT-3e8a800f,U-02971,2025-04-25T15:32:00,other,기타 문의,resolved,251.8,972.9,3
+CHAT-c713c979,U-09294,2025-04-25T11:40:00,billing,결제 내역 확인,resolved,7.0,18.5,5
+CHAT-ad7327d1,U-09501,2025-04-25T22:06:00,content,강의 업데이트 계획,resolved,129.7,337.2,2
+CHAT-b4ba9b8a,U-13473,2025-04-25T09:08:00,billing,결제 내역 확인,resolved,8.8,15.3,5
+CHAT-6c3617b6,U-13749,2025-04-25T16:43:00,billing,환불 문의,resolved,475.5,1383.2,3
+CHAT-14cb7ea7,U-00930,2025-04-26T13:13:00,other,파트너십 제안,resolved,291.8,736.3,3
+CHAT-f0cfbcea,U-01568,2025-04-26T09:31:00,technical,영상이 안 나와요,resolved,98.4,362.4,3
+CHAT-a91dbd1d,U-03523,2025-04-26T14:20:00,account,프로필 수정,pending,59.5,103.0,5
+CHAT-aa691f56,U-06754,2025-04-26T19:18:00,technical,다운로드 안 됨,resolved,74.2,226.2,3
+CHAT-27477d29,U-07553,2025-04-26T09:09:00,other,기타 문의,pending,72.0,242.4,1
+CHAT-e7357358,U-12741,2025-04-26T19:25:00,billing,플랜 변경 방법,resolved,23.0,62.0,4
+CHAT-5900beb8,U-13681,2025-04-26T21:01:00,billing,결제가 안 돼요,resolved,28.2,63.2,4
+CHAT-5a7c623e,U-13934,2025-04-26T14:53:00,account,탈퇴 문의,resolved,19.7,65.2,5
+CHAT-f300b7e9,U-14244,2025-04-26T19:06:00,other,기타 문의,resolved,461.6,1560.6,3
+CHAT-c30b93a1,U-01688,2025-04-27T13:45:00,billing,결제 내역 확인,resolved,12.2,28.8,4
+CHAT-f705d1ba,U-01885,2025-04-27T12:46:00,account,이메일 변경,pending,31.0,94.7,3
+CHAT-c8633fd4,U-06435,2025-04-27T13:16:00,account,이메일 변경,resolved,19.2,52.3,1
+CHAT-3f5ae04c,U-06482,2025-04-27T18:22:00,technical,다운로드 안 됨,resolved,110.3,361.7,4
+CHAT-bd56d381,U-09574,2025-04-27T21:03:00,content,추가 강의 요청,resolved,170.0,351.6,1
+CHAT-0ac4b741,U-09986,2025-04-27T19:36:00,account,프로필 수정,resolved,49.4,109.5,5
+CHAT-d241fe11,U-12716,2025-04-27T22:15:00,account,이메일 변경,resolved,19.2,63.3,3
+CHAT-bc1cb248,U-12775,2025-04-27T13:28:00,billing,플랜 변경 방법,pending,23.3,37.5,4
+CHAT-5388e3c0,U-14036,2025-04-27T15:10:00,account,프로필 수정,resolved,43.5,92.0,3
+CHAT-603fb676,U-00385,2025-04-28T13:34:00,content,실습 자료 누락,resolved,166.3,496.0,1
+CHAT-9625605b,U-01262,2025-04-28T10:38:00,account,프로필 수정,pending,43.4,90.6,1
+CHAT-c41c2076,U-01637,2025-04-28T14:26:00,content,실습 자료 누락,pending,36.6,130.6,4
+CHAT-6376ee57,U-01995,2025-04-28T20:15:00,billing,환불 문의,resolved,10.3,29.9,3
+CHAT-a674fcee,U-04538,2025-04-28T17:09:00,technical,앱이 자주 튕겨요,pending,64.8,244.9,1
+CHAT-e04fe48f,U-04776,2025-04-28T13:02:00,content,퀴즈 정답 오류,resolved,102.0,269.1,4
+CHAT-f01e8e23,U-06792,2025-04-28T10:07:00,technical,로그인 오류,resolved,93.5,266.6,1
+CHAT-d056cb24,U-09342,2025-04-28T11:58:00,other,강사 지원,resolved,292.0,610.6,1
+CHAT-30529790,U-10228,2025-04-28T22:58:00,technical,앱이 자주 튕겨요,resolved,34.2,134.1,1
+CHAT-71e8c74e,U-12321,2025-04-28T10:05:00,billing,환불 문의,resolved,19.2,29.9,3
+CHAT-a4bc04e5,U-12872,2025-04-28T11:13:00,billing,플랜 변경 방법,resolved,9.6,18.5,2
+CHAT-9432b06d,U-14469,2025-04-28T12:07:00,billing,플랜 변경 방법,resolved,28.2,66.2,4
+CHAT-20c276a5,U-15211,2025-04-28T13:15:00,other,기타 문의,pending,279.8,865.4,3
+CHAT-2024be1d,U-02274,2025-04-29T20:50:00,account,탈퇴 문의,resolved,10.2,33.8,5
+CHAT-5f22111f,U-02488,2025-04-29T14:26:00,other,강사 지원,resolved,101.3,295.4,2
+CHAT-ac7901ae,U-02869,2025-04-29T15:59:00,account,탈퇴 문의,resolved,13.6,32.1,3
+CHAT-cb52e4bb,U-03088,2025-04-29T17:23:00,technical,로그인 오류,resolved,118.6,263.4,2
+CHAT-4961e7d1,U-09524,2025-04-29T22:41:00,content,추가 강의 요청,resolved,50.8,135.8,3
+CHAT-0c0bed2f,U-11180,2025-04-29T18:59:00,billing,결제 내역 확인,pending,7.0,23.6,5
+CHAT-83991acd,U-12635,2025-04-29T21:20:00,billing,결제 내역 확인,resolved,20.5,81.2,4
+CHAT-f94c6efe,U-12801,2025-04-29T10:18:00,technical,영상이 안 나와요,resolved,68.4,117.5,4
+CHAT-9ff79547,U-12998,2025-04-29T09:59:00,billing,결제가 안 돼요,resolved,22.4,62.1,3
+CHAT-c5470b0b,U-13918,2025-04-29T20:04:00,billing,결제가 안 돼요,resolved,253.5,771.1,4
+CHAT-53dc9a09,U-14424,2025-04-29T15:47:00,content,강의 업데이트 계획,pending,155.4,564.9,4
+CHAT-02efa343,U-14571,2025-04-29T16:00:00,account,프로필 수정,resolved,40.8,129.8,5
+CHAT-fad33c45,U-14736,2025-04-29T14:49:00,technical,영상이 안 나와요,resolved,115.0,295.9,1
+CHAT-204b5f0e,U-14748,2025-04-29T11:04:00,technical,다운로드 안 됨,resolved,41.8,114.3,2
+CHAT-723ea004,U-00991,2025-04-30T17:10:00,other,파트너십 제안,pending,258.7,449.5,3
+CHAT-b074a656,U-01723,2025-04-30T15:56:00,billing,결제가 안 돼요,pending,24.1,83.2,4
+CHAT-3020cf43,U-03836,2025-04-30T18:04:00,other,기타 문의,resolved,366.5,1141.1,2
+CHAT-ae4f0406,U-06252,2025-04-30T11:38:00,technical,로그인 오류,resolved,23.2,89.5,3
+CHAT-31161406,U-07137,2025-04-30T21:03:00,technical,다운로드 안 됨,resolved,68.2,162.0,2
+CHAT-95f6532d,U-08880,2025-04-30T18:19:00,billing,환불 문의,resolved,26.2,76.1,3
+CHAT-d04c9710,U-09509,2025-04-30T14:06:00,technical,앱이 자주 튕겨요,resolved,105.5,321.0,4
+CHAT-bcb958f5,U-09826,2025-04-30T15:25:00,content,퀴즈 정답 오류,resolved,33.0,108.4,4
+CHAT-39adc766,U-12464,2025-04-30T17:17:00,other,강사 지원,resolved,340.9,674.5,1
+CHAT-7861750a,U-12907,2025-04-30T15:41:00,billing,환불 문의,resolved,11.1,41.2,3
+CHAT-090db496,U-14323,2025-04-30T10:49:00,billing,환불 문의,resolved,10.4,38.3,4
+CHAT-41abc698,U-14450,2025-04-30T16:05:00,other,기타 문의,resolved,41.1,75.4,5
+CHAT-dffd76a2,U-14517,2025-04-30T15:36:00,billing,결제 내역 확인,resolved,7.5,22.3,4
+CHAT-0c40063e,U-15507,2025-04-30T14:07:00,billing,결제가 안 돼요,resolved,14.3,52.6,3
+CHAT-8c51c4e1,U-01481,2025-05-01T12:21:00,account,프로필 수정,resolved,38.7,147.5,5
+CHAT-ac568f9d,U-04425,2025-05-01T18:30:00,other,파트너십 제안,resolved,413.4,852.9,3
+CHAT-e62d7a6f,U-06061,2025-05-01T11:37:00,technical,로그인 오류,resolved,76.1,120.9,1
+CHAT-b112c234,U-06754,2025-05-01T09:59:00,billing,플랜 변경 방법,resolved,9.0,34.7,3
+CHAT-9a5ae994,U-07063,2025-05-01T19:15:00,billing,환불 문의,resolved,17.8,28.9,2
+CHAT-8caccef0,U-07539,2025-05-01T14:58:00,other,강사 지원,resolved,339.6,1281.1,4
+CHAT-38c9c2cf,U-09596,2025-05-01T20:20:00,billing,환불 문의,pending,29.7,84.0,4
+CHAT-10e6ca11,U-10577,2025-05-01T15:14:00,billing,결제 내역 확인,resolved,11.0,26.4,1
+CHAT-19bf7560,U-12347,2025-05-01T17:03:00,other,강사 지원,resolved,134.3,304.3,2
+CHAT-5e9b42a2,U-14084,2025-05-01T13:03:00,other,기타 문의,resolved,353.6,754.8,2
+CHAT-0add98fc,U-14122,2025-05-01T18:43:00,billing,환불 문의,pending,28.2,105.0,5
+CHAT-ae82906b,U-14831,2025-05-01T16:31:00,billing,결제가 안 돼요,resolved,11.6,40.9,4
+CHAT-1b5bac8e,U-15266,2025-05-01T15:23:00,account,이메일 변경,resolved,39.3,147.3,4
+CHAT-d4c4246d,U-15364,2025-05-01T13:58:00,technical,로그인 오류,resolved,54.2,183.5,2
+CHAT-fddbb03a,U-15536,2025-05-01T13:15:00,billing,결제가 안 돼요,resolved,14.8,49.4,2
+CHAT-b9bd646b,U-15611,2025-05-01T21:00:00,content,실습 자료 누락,resolved,109.9,184.6,1
+CHAT-d51c7bee,U-04518,2025-05-02T14:30:00,technical,다운로드 안 됨,resolved,75.6,190.9,2
+CHAT-ef5daa32,U-05158,2025-05-02T14:15:00,billing,플랜 변경 방법,pending,8.2,16.4,3
+CHAT-c0ae6402,U-07099,2025-05-02T13:41:00,content,실습 자료 누락,resolved,180.1,434.0,4
+CHAT-b1fc2e5a,U-07386,2025-05-02T12:11:00,content,추가 강의 요청,resolved,118.4,260.0,1
+CHAT-3b0dc2f3,U-07531,2025-05-02T15:38:00,content,추가 강의 요청,resolved,136.7,407.9,3
+CHAT-d3f8e896,U-09577,2025-05-02T14:05:00,technical,로그인 오류,resolved,57.8,86.9,4
+CHAT-57405825,U-11338,2025-05-02T18:07:00,content,추가 강의 요청,pending,48.0,152.7,4
+CHAT-a313b8a4,U-13891,2025-05-02T22:31:00,billing,플랜 변경 방법,resolved,25.5,89.9,4
+CHAT-84dd8de3,U-14722,2025-05-02T10:48:00,content,추가 강의 요청,resolved,128.5,450.0,2
+CHAT-b9fba118,U-15395,2025-05-02T21:09:00,other,파트너십 제안,resolved,45.1,77.8,4
+CHAT-6e307cfc,U-15501,2025-05-02T11:38:00,account,탈퇴 문의,resolved,15.5,56.3,5
+CHAT-d321cbf9,U-15636,2025-05-02T19:10:00,technical,다운로드 안 됨,resolved,35.1,93.8,4
+CHAT-4e12c664,U-15741,2025-05-02T21:50:00,billing,결제가 안 돼요,pending,20.7,70.1,5
+CHAT-14da8a2a,U-00443,2025-05-03T11:36:00,content,추가 강의 요청,resolved,70.9,240.6,4
+CHAT-1f1770b2,U-02242,2025-05-03T10:38:00,billing,플랜 변경 방법,resolved,5.2,17.6,5
+CHAT-022b5a0a,U-03421,2025-05-03T13:01:00,billing,플랜 변경 방법,pending,22.3,63.9,1
+CHAT-5eb9bd68,U-05536,2025-05-03T20:39:00,technical,앱이 자주 튕겨요,resolved,80.0,199.7,3
+CHAT-d7c1504b,U-05840,2025-05-03T17:48:00,content,추가 강의 요청,resolved,144.6,353.1,2
+CHAT-2b770b15,U-06927,2025-05-03T11:11:00,account,탈퇴 문의,resolved,10.4,34.1,4
+CHAT-c0dbad43,U-08521,2025-05-03T21:50:00,content,퀴즈 정답 오류,resolved,81.3,285.7,1
+CHAT-a9327d63,U-13143,2025-05-03T22:36:00,technical,로그인 오류,resolved,21.2,68.1,5
+CHAT-6e3f9e79,U-15445,2025-05-03T17:46:00,billing,환불 문의,resolved,11.9,43.7,2
+CHAT-f91d610f,U-01320,2025-05-04T18:16:00,technical,앱이 자주 튕겨요,resolved,71.7,247.6,3
+CHAT-cb11fc61,U-03351,2025-05-04T22:23:00,technical,다운로드 안 됨,resolved,54.5,102.8,5
+CHAT-27905c78,U-04514,2025-05-04T15:49:00,account,이메일 변경,pending,39.4,59.7,3
+CHAT-367a03fa,U-04613,2025-05-04T22:20:00,technical,로그인 오류,pending,23.6,65.3,5
+CHAT-6396be0d,U-06355,2025-05-04T12:47:00,technical,영상이 안 나와요,resolved,98.2,318.5,2
+CHAT-5769a258,U-07490,2025-05-04T12:23:00,content,강의 업데이트 계획,resolved,95.6,163.5,4
+CHAT-a6e528a5,U-11949,2025-05-04T12:13:00,technical,로그인 오류,resolved,74.8,126.3,3
+CHAT-de547adb,U-14602,2025-05-04T22:00:00,billing,플랜 변경 방법,resolved,26.6,48.4,5
+CHAT-c2907505,U-14624,2025-05-04T21:28:00,content,퀴즈 정답 오류,pending,175.2,467.4,4
+CHAT-a131f434,U-15357,2025-05-04T11:00:00,technical,앱이 자주 튕겨요,pending,55.1,192.2,3
+CHAT-62e3b661,U-15689,2025-05-04T13:55:00,content,실습 자료 누락,pending,227.1,490.5,3
+CHAT-2ac4000c,U-00222,2025-05-05T12:28:00,other,기타 문의,resolved,393.3,756.3,2
+CHAT-50cc65af,U-00815,2025-05-05T18:26:00,technical,다운로드 안 됨,resolved,103.2,176.4,3
+CHAT-a2a6ec50,U-03009,2025-05-05T17:34:00,other,강사 지원,pending,125.6,254.8,3
+CHAT-d60efa21,U-03113,2025-05-05T14:59:00,account,탈퇴 문의,resolved,22.1,81.4,5
+CHAT-e4ae33ce,U-03396,2025-05-05T13:49:00,content,강의 업데이트 계획,resolved,211.8,331.3,4
+CHAT-27ba078f,U-04874,2025-05-05T13:01:00,billing,플랜 변경 방법,resolved,19.8,50.5,2
+CHAT-d9ff986b,U-07729,2025-05-05T09:07:00,technical,다운로드 안 됨,resolved,100.9,353.1,1
+CHAT-694f1c5c,U-08086,2025-05-05T09:53:00,technical,영상이 안 나와요,resolved,39.9,70.8,5
+CHAT-c19576ba,U-08488,2025-05-05T18:31:00,other,기타 문의,resolved,55.0,210.0,4
+CHAT-0ed05658,U-09059,2025-05-05T19:08:00,other,기타 문의,resolved,177.5,329.7,3
+CHAT-af52794d,U-09579,2025-05-05T20:19:00,account,탈퇴 문의,resolved,50.3,120.7,5
+CHAT-1b83eab9,U-12138,2025-05-05T20:41:00,account,탈퇴 문의,resolved,48.4,138.2,4
+CHAT-ebed6d4d,U-12251,2025-05-05T09:01:00,billing,플랜 변경 방법,pending,22.0,55.6,3
+CHAT-d7ef47ae,U-14482,2025-05-05T17:04:00,technical,앱이 자주 튕겨요,resolved,81.3,155.2,3
+CHAT-d0b766cd,U-14853,2025-05-05T09:02:00,content,실습 자료 누락,resolved,97.5,256.9,4
+CHAT-68a2591a,U-15727,2025-05-05T18:31:00,billing,결제 내역 확인,resolved,13.8,47.2,5
+CHAT-b2fa9686,U-16197,2025-05-05T13:37:00,content,실습 자료 누락,resolved,84.3,208.9,2
+CHAT-44a42afc,U-02680,2025-05-06T11:21:00,technical,다운로드 안 됨,resolved,30.0,116.5,4
+CHAT-f0f05999,U-03331,2025-05-06T12:04:00,other,파트너십 제안,pending,254.2,526.7,4
+CHAT-12637dd1,U-05255,2025-05-06T22:04:00,billing,결제가 안 돼요,resolved,28.2,91.1,1
+CHAT-fb6f48e7,U-05544,2025-05-06T10:59:00,account,프로필 수정,pending,22.2,87.8,3
+CHAT-9f712195,U-09104,2025-05-06T16:41:00,account,비밀번호 변경,resolved,34.8,91.4,3
+CHAT-109d1c7c,U-10037,2025-05-06T16:24:00,billing,결제 내역 확인,resolved,16.4,61.5,3
+CHAT-3ba91105,U-11014,2025-05-06T10:12:00,technical,로그인 오류,resolved,89.1,199.8,2
+CHAT-39680911,U-12211,2025-05-06T22:24:00,billing,결제가 안 돼요,resolved,9.6,27.0,5
+CHAT-2d967766,U-15959,2025-05-06T17:51:00,other,강사 지원,resolved,60.6,121.4,4
+CHAT-fff5eec7,U-00150,2025-05-07T15:31:00,billing,플랜 변경 방법,resolved,28.2,80.9,3
+CHAT-2c896dae,U-00370,2025-05-07T10:33:00,technical,로그인 오류,resolved,55.3,141.2,3
+CHAT-df1874e1,U-03104,2025-05-07T22:04:00,technical,앱이 자주 튕겨요,resolved,35.0,112.8,2
+CHAT-f64d0afa,U-10890,2025-05-07T22:12:00,content,실습 자료 누락,resolved,77.6,119.8,1
+CHAT-b3fa6bd6,U-03344,2025-05-08T20:59:00,technical,앱이 자주 튕겨요,resolved,72.8,220.6,4
+CHAT-7cd7a13a,U-05346,2025-05-08T22:14:00,billing,플랜 변경 방법,resolved,26.4,42.9,5
+CHAT-4a98eed5,U-05419,2025-05-08T10:47:00,billing,결제 내역 확인,resolved,13.4,42.5,3
+CHAT-9ac20e2e,U-06941,2025-05-08T16:13:00,technical,로그인 오류,resolved,16.9,58.4,4
+CHAT-b5906de0,U-08749,2025-05-08T17:19:00,other,강사 지원,pending,204.5,329.9,3
+CHAT-781ae8b0,U-11281,2025-05-08T22:21:00,account,비밀번호 변경,pending,10.9,23.1,1
+CHAT-48a7b781,U-12688,2025-05-08T22:46:00,billing,결제가 안 돼요,resolved,27.4,44.6,5
+CHAT-f541bf63,U-14063,2025-05-08T12:40:00,account,탈퇴 문의,resolved,21.5,45.6,4
+CHAT-c57353c3,U-15207,2025-05-08T13:15:00,billing,환불 문의,resolved,360.0,950.2,1
+CHAT-6c305e36,U-15821,2025-05-08T22:09:00,technical,다운로드 안 됨,pending,61.1,190.7,4
+CHAT-49ebf7a8,U-16101,2025-05-08T10:40:00,content,퀴즈 정답 오류,resolved,88.5,269.8,4
+CHAT-c1d223aa,U-00330,2025-05-09T18:55:00,account,이메일 변경,resolved,28.6,45.0,4
+CHAT-45283762,U-01341,2025-05-09T13:18:00,account,탈퇴 문의,pending,17.6,66.0,1
+CHAT-8f8aa0f4,U-01508,2025-05-09T10:04:00,content,퀴즈 정답 오류,resolved,206.3,694.8,4
+CHAT-d44a31d9,U-02863,2025-05-09T11:37:00,technical,로그인 오류,resolved,71.8,236.6,4
+CHAT-7236b051,U-03616,2025-05-09T15:14:00,content,추가 강의 요청,resolved,192.0,591.0,3
+CHAT-863cc291,U-06415,2025-05-09T14:20:00,content,강의 업데이트 계획,resolved,87.2,295.8,4
+CHAT-5f5b35e2,U-06953,2025-05-09T13:34:00,billing,결제가 안 돼요,resolved,16.2,37.4,4
+CHAT-a590694e,U-11026,2025-05-09T22:00:00,account,프로필 수정,resolved,41.0,85.7,3
+CHAT-d01c9fb8,U-11313,2025-05-09T22:54:00,billing,플랜 변경 방법,resolved,21.8,81.2,3
+CHAT-f033a11e,U-14499,2025-05-09T09:35:00,billing,결제가 안 돼요,resolved,28.9,44.3,4
+CHAT-8381b080,U-15836,2025-05-09T14:38:00,billing,결제 내역 확인,resolved,18.5,37.3,5
+CHAT-3a5cfea0,U-16602,2025-05-09T12:26:00,technical,영상이 안 나와요,resolved,32.4,94.8,3
+CHAT-76d1e926,U-16709,2025-05-09T14:53:00,content,실습 자료 누락,resolved,180.5,362.4,4
+CHAT-fec4cf72,U-16754,2025-05-09T22:00:00,content,추가 강의 요청,pending,73.4,256.0,4
+CHAT-94fd7148,U-00168,2025-05-10T11:08:00,technical,영상이 안 나와요,resolved,40.3,62.3,4
+CHAT-bfb83351,U-03520,2025-05-10T22:30:00,account,탈퇴 문의,pending,54.2,105.6,4
+CHAT-5af839cf,U-04121,2025-05-10T17:58:00,technical,로그인 오류,resolved,24.0,64.8,2
+CHAT-f0302131,U-14239,2025-05-10T14:43:00,billing,플랜 변경 방법,resolved,20.2,77.9,2
+CHAT-e6df6a16,U-15350,2025-05-10T22:49:00,billing,결제가 안 돼요,resolved,6.9,17.1,3
+CHAT-a0b4448d,U-16159,2025-05-10T16:37:00,account,프로필 수정,resolved,47.4,73.1,4
+CHAT-3121f0de,U-16452,2025-05-10T19:19:00,content,강의 업데이트 계획,pending,200.8,798.1,4
+CHAT-1f882f36,U-03521,2025-05-11T21:00:00,technical,다운로드 안 됨,resolved,110.0,177.6,3
+CHAT-89f90e94,U-03801,2025-05-11T21:46:00,account,탈퇴 문의,resolved,36.3,138.0,4
+CHAT-f8844a69,U-10759,2025-05-11T19:22:00,account,이메일 변경,resolved,23.7,71.1,4
+CHAT-82fe252f,U-11703,2025-05-11T11:34:00,technical,영상이 안 나와요,pending,77.2,263.9,3
+CHAT-f7e6de7b,U-12954,2025-05-11T21:35:00,technical,앱이 자주 튕겨요,pending,67.7,118.0,4
+CHAT-33f90d24,U-13257,2025-05-11T09:58:00,billing,결제가 안 돼요,resolved,29.3,57.8,3
+CHAT-a3ee6d24,U-13463,2025-05-11T13:43:00,content,강의 업데이트 계획,resolved,104.8,213.1,4
+CHAT-e2c35738,U-13805,2025-05-11T16:30:00,technical,영상이 안 나와요,resolved,112.3,316.0,3
+CHAT-e60e6e0f,U-14855,2025-05-11T22:33:00,billing,결제 내역 확인,resolved,6.1,18.7,3
+CHAT-4ae1f3aa,U-14922,2025-05-11T12:39:00,other,파트너십 제안,resolved,326.1,705.7,4
+CHAT-99afed21,U-16863,2025-05-11T10:07:00,content,퀴즈 정답 오류,resolved,178.8,311.7,4
+CHAT-576b64b4,U-16908,2025-05-11T12:26:00,other,강사 지원,resolved,238.8,583.5,3
+CHAT-711d0a2e,U-01804,2025-05-12T10:29:00,account,비밀번호 변경,resolved,38.3,74.9,3
+CHAT-4174277d,U-04898,2025-05-12T18:34:00,technical,다운로드 안 됨,resolved,31.0,81.2,5
+CHAT-c70ddbe7,U-05528,2025-05-12T21:48:00,content,강의 업데이트 계획,resolved,38.2,66.3,5
+CHAT-2cb719f6,U-12197,2025-05-12T16:39:00,content,실습 자료 누락,pending,153.3,294.4,3
+CHAT-a3724078,U-12323,2025-05-12T19:14:00,account,탈퇴 문의,resolved,48.0,128.7,5
+CHAT-27e57a73,U-13735,2025-05-12T10:55:00,account,탈퇴 문의,resolved,26.5,65.8,5
+CHAT-aaecf50d,U-13743,2025-05-12T19:00:00,billing,결제 내역 확인,resolved,12.6,26.1,4
+CHAT-e72d4545,U-14378,2025-05-12T15:03:00,billing,플랜 변경 방법,resolved,435.1,1407.7,3
+CHAT-dc94ad5b,U-15356,2025-05-12T18:09:00,other,강사 지원,pending,86.5,235.4,4
+CHAT-9e5836d4,U-16093,2025-05-12T16:03:00,other,강사 지원,resolved,234.9,468.3,3
+CHAT-dc7da731,U-16730,2025-05-12T11:51:00,billing,결제가 안 돼요,resolved,15.3,31.2,3
+CHAT-ad964cbc,U-16825,2025-05-12T19:02:00,technical,다운로드 안 됨,pending,98.5,161.8,3
+CHAT-32c05547,U-16892,2025-05-12T18:15:00,technical,다운로드 안 됨,resolved,30.7,97.2,3
+CHAT-b788c2dc,U-17153,2025-05-12T14:47:00,content,퀴즈 정답 오류,resolved,95.0,236.4,3
+CHAT-05b4c20b,U-02596,2025-05-13T20:38:00,content,실습 자료 누락,resolved,107.2,166.3,4
+CHAT-a474d054,U-03565,2025-05-13T14:48:00,billing,결제가 안 돼요,resolved,19.6,69.3,4
+CHAT-c621d181,U-06099,2025-05-13T12:07:00,account,프로필 수정,resolved,54.7,82.2,4
+CHAT-d2ecea65,U-06327,2025-05-13T12:12:00,content,퀴즈 정답 오류,pending,107.0,390.2,3
+CHAT-42e8fb2a,U-09226,2025-05-13T17:11:00,content,강의 업데이트 계획,resolved,127.1,346.4,4
+CHAT-ac5887a7,U-09983,2025-05-13T19:46:00,content,실습 자료 누락,resolved,130.8,221.2,4
+CHAT-d56c8fdd,U-11179,2025-05-13T22:36:00,technical,영상이 안 나와요,resolved,83.8,264.2,2
+CHAT-ec6c522a,U-00412,2025-05-14T12:44:00,content,퀴즈 정답 오류,resolved,97.0,322.6,3
+CHAT-2cb9f0fb,U-01211,2025-05-14T11:06:00,other,기타 문의,resolved,67.9,111.4,4
+CHAT-ad781809,U-03430,2025-05-14T18:42:00,content,퀴즈 정답 오류,pending,91.8,186.8,4
+CHAT-d8d31856,U-04660,2025-05-14T22:37:00,content,실습 자료 누락,pending,133.2,362.2,1
+CHAT-2bcacf4d,U-05081,2025-05-14T14:36:00,content,추가 강의 요청,resolved,74.8,205.7,4
+CHAT-7cdcfddc,U-06526,2025-05-14T20:21:00,other,기타 문의,resolved,67.7,110.9,1
+CHAT-13997b9b,U-07726,2025-05-14T20:16:00,content,강의 업데이트 계획,resolved,83.7,276.2,2
+CHAT-8e2bcbb3,U-15666,2025-05-14T15:27:00,billing,결제 내역 확인,resolved,27.4,42.3,3
+CHAT-1b82b9b7,U-16363,2025-05-14T15:17:00,content,강의 업데이트 계획,resolved,211.1,340.4,4
+CHAT-728f6ee2,U-16926,2025-05-14T15:33:00,billing,환불 문의,pending,7.1,16.5,4
+CHAT-62cd198c,U-17419,2025-05-14T14:57:00,technical,로그인 오류,resolved,96.1,378.5,2
+CHAT-95857007,U-00498,2025-05-15T21:14:00,content,강의 업데이트 계획,pending,116.8,332.8,4
+CHAT-9f0deaa0,U-02170,2025-05-15T13:55:00,other,기타 문의,resolved,135.5,207.4,4
+CHAT-171fd800,U-04421,2025-05-15T10:11:00,account,프로필 수정,resolved,51.5,105.9,4
+CHAT-124f08ce,U-08352,2025-05-15T18:56:00,billing,결제가 안 돼요,resolved,11.9,18.5,3
+CHAT-0be56062,U-09075,2025-05-15T21:44:00,content,추가 강의 요청,pending,67.7,223.5,4
+CHAT-8f98d04d,U-16204,2025-05-15T10:53:00,billing,결제가 안 돼요,resolved,16.6,60.2,2
+CHAT-8d3184a6,U-17126,2025-05-15T10:34:00,account,프로필 수정,resolved,31.8,68.6,4
+CHAT-74f2a168,U-00285,2025-05-16T12:07:00,other,강사 지원,resolved,257.1,445.1,4
+CHAT-355a80e1,U-03711,2025-05-16T12:00:00,technical,로그인 오류,resolved,70.6,133.4,1
+CHAT-5c13eecd,U-05623,2025-05-16T12:49:00,account,이메일 변경,pending,31.5,65.1,4
+CHAT-7bcd3419,U-07588,2025-05-16T15:58:00,technical,다운로드 안 됨,resolved,75.7,122.8,2
+CHAT-9bd0fd4f,U-08155,2025-05-16T16:33:00,technical,로그인 오류,pending,19.4,36.2,4
+CHAT-d79444d9,U-08863,2025-05-16T11:06:00,technical,앱이 자주 튕겨요,resolved,37.3,78.2,4
+CHAT-a996e45f,U-09658,2025-05-16T12:40:00,other,기타 문의,pending,90.0,213.5,4
+CHAT-a4f60997,U-09821,2025-05-16T11:04:00,other,기타 문의,resolved,407.5,915.1,1
+CHAT-df8703a5,U-11443,2025-05-16T21:31:00,other,기타 문의,resolved,460.1,1830.1,3
+CHAT-e669ebed,U-12723,2025-05-16T22:13:00,content,추가 강의 요청,resolved,119.6,432.5,1
+CHAT-210ef3ac,U-13008,2025-05-16T21:00:00,account,비밀번호 변경,resolved,20.0,68.0,5
+CHAT-6beec2bf,U-13044,2025-05-16T22:52:00,technical,영상이 안 나와요,pending,116.1,325.8,4
+CHAT-057e7f35,U-17126,2025-05-16T10:50:00,billing,결제가 안 돼요,resolved,7.2,23.7,4
+CHAT-59523b75,U-17350,2025-05-16T15:49:00,billing,환불 문의,resolved,16.4,54.6,3
+CHAT-c6511e12,U-00028,2025-05-17T14:45:00,billing,플랜 변경 방법,resolved,8.4,24.1,3
+CHAT-6cf5a797,U-01627,2025-05-17T22:35:00,billing,환불 문의,resolved,22.0,85.7,5
+CHAT-c9398ae3,U-02728,2025-05-17T18:43:00,other,파트너십 제안,resolved,92.1,354.1,2
+CHAT-789db4c3,U-17185,2025-05-17T16:02:00,technical,앱이 자주 튕겨요,resolved,59.7,137.4,4
+CHAT-b59559c5,U-01111,2025-05-18T22:10:00,other,기타 문의,resolved,168.7,264.8,1
+CHAT-03afcb7a,U-02532,2025-05-18T11:15:00,other,기타 문의,resolved,474.0,1199.5,1
+CHAT-05697612,U-06890,2025-05-18T12:20:00,technical,로그인 오류,pending,83.1,223.5,4
+CHAT-d9aa9067,U-07972,2025-05-18T15:51:00,other,기타 문의,resolved,473.6,748.1,4
+CHAT-78029664,U-08121,2025-05-18T12:09:00,content,추가 강의 요청,resolved,193.9,720.5,2
+CHAT-8aa57579,U-09524,2025-05-18T17:12:00,billing,결제 내역 확인,resolved,7.2,26.1,3
+CHAT-31048222,U-11913,2025-05-18T16:51:00,account,비밀번호 변경,resolved,36.7,85.7,4
+CHAT-07de20ce,U-13055,2025-05-18T13:44:00,billing,플랜 변경 방법,resolved,22.5,66.7,4
+CHAT-1e83e28a,U-17407,2025-05-18T09:38:00,account,이메일 변경,resolved,36.5,112.2,4
+CHAT-60bce9da,U-17888,2025-05-18T19:12:00,technical,앱이 자주 튕겨요,resolved,16.2,44.7,5
+CHAT-8c06106f,U-00891,2025-05-19T13:41:00,other,강사 지원,resolved,391.0,755.7,2
+CHAT-3c7d5d24,U-01655,2025-05-19T09:35:00,billing,환불 문의,resolved,20.9,45.1,3
+CHAT-5e86476e,U-03520,2025-05-19T21:07:00,technical,앱이 자주 튕겨요,resolved,90.8,299.7,3
+CHAT-94fe5dbd,U-03852,2025-05-19T12:42:00,billing,환불 문의,pending,18.1,53.0,4
+CHAT-8c9ba769,U-12105,2025-05-19T10:15:00,billing,결제 내역 확인,pending,24.0,74.8,5
+CHAT-eeca38eb,U-13436,2025-05-19T12:53:00,billing,환불 문의,pending,14.7,22.2,2
+CHAT-71a53603,U-14349,2025-05-19T20:37:00,billing,결제가 안 돼요,resolved,16.0,61.1,1
+CHAT-cf8c9c58,U-15819,2025-05-19T10:36:00,billing,환불 문의,resolved,8.0,25.6,5
+CHAT-b3c9f73a,U-16872,2025-05-19T22:29:00,content,실습 자료 누락,resolved,59.7,126.6,3
+CHAT-64fe661d,U-17613,2025-05-19T15:57:00,account,탈퇴 문의,resolved,11.0,36.0,4
+CHAT-9958708e,U-17844,2025-05-19T19:03:00,content,추가 강의 요청,pending,53.0,133.6,5
+CHAT-800e1dca,U-18123,2025-05-19T13:53:00,account,탈퇴 문의,pending,23.5,85.5,2
+CHAT-f881b146,U-00042,2025-05-20T22:17:00,other,기타 문의,resolved,56.0,184.9,3
+CHAT-0c1ca987,U-02664,2025-05-20T15:44:00,billing,결제 내역 확인,resolved,10.8,30.8,1
+CHAT-761792f4,U-06763,2025-05-20T16:18:00,technical,다운로드 안 됨,resolved,117.1,190.0,3
+CHAT-28ab3df0,U-07729,2025-05-20T21:59:00,content,강의 업데이트 계획,resolved,140.7,267.2,4
+CHAT-ca641f56,U-08240,2025-05-20T20:59:00,content,퀴즈 정답 오류,resolved,174.7,541.5,3
+CHAT-ffca6123,U-11624,2025-05-20T21:33:00,content,퀴즈 정답 오류,resolved,66.5,144.5,4
+CHAT-6e6d555f,U-13489,2025-05-20T11:00:00,content,퀴즈 정답 오류,resolved,77.4,221.0,3
+CHAT-c92e1f98,U-14044,2025-05-20T11:30:00,technical,영상이 안 나와요,resolved,116.4,333.7,4
+CHAT-03147d23,U-14121,2025-05-20T21:45:00,other,강사 지원,resolved,241.3,945.8,3
+CHAT-4533c14b,U-16779,2025-05-20T10:46:00,billing,결제가 안 돼요,resolved,17.6,60.0,4
+CHAT-dd2b7699,U-17496,2025-05-20T16:14:00,account,이메일 변경,resolved,32.3,50.1,3
+CHAT-596b467d,U-17604,2025-05-20T18:50:00,billing,결제가 안 돼요,resolved,6.1,17.7,3
+CHAT-d4f3f9f2,U-18090,2025-05-20T22:16:00,technical,다운로드 안 됨,resolved,38.4,69.4,1
+CHAT-02c92bd5,U-18244,2025-05-20T13:51:00,technical,다운로드 안 됨,resolved,104.1,262.6,2
+CHAT-fdf67261,U-03836,2025-05-21T21:13:00,technical,영상이 안 나와요,pending,16.6,57.2,5
+CHAT-f8d3ee54,U-09478,2025-05-21T15:27:00,other,기타 문의,resolved,242.7,365.0,4
+CHAT-d6d6ea25,U-09901,2025-05-21T17:16:00,other,기타 문의,resolved,123.8,471.2,2
+CHAT-a9dc8a12,U-12769,2025-05-21T16:08:00,billing,플랜 변경 방법,resolved,7.0,22.9,3
+CHAT-3bd8ed44,U-14953,2025-05-21T12:02:00,billing,결제 내역 확인,pending,18.1,51.3,3
+CHAT-a6b89204,U-17486,2025-05-21T22:59:00,content,강의 업데이트 계획,resolved,137.6,307.9,4
+CHAT-ad8edc6f,U-18117,2025-05-21T20:05:00,content,실습 자료 누락,resolved,225.7,443.5,4
+CHAT-f260beb1,U-00533,2025-05-22T17:12:00,other,기타 문의,pending,113.5,414.8,2
+CHAT-675f86d0,U-04211,2025-05-22T10:57:00,account,탈퇴 문의,pending,21.4,70.4,3
+CHAT-f72a0259,U-08577,2025-05-22T18:04:00,content,퀴즈 정답 오류,resolved,177.7,644.8,3
+CHAT-06fc1220,U-09294,2025-05-22T12:04:00,content,추가 강의 요청,resolved,136.1,417.0,1
+CHAT-de3a9e60,U-10555,2025-05-22T19:16:00,other,기타 문의,pending,350.6,1370.1,3
+CHAT-c583586f,U-15716,2025-05-22T18:09:00,billing,환불 문의,resolved,17.1,49.1,1
+CHAT-017ed996,U-16286,2025-05-22T22:54:00,other,파트너십 제안,resolved,264.3,1008.1,2
+CHAT-7d6aaf22,U-16479,2025-05-22T19:34:00,content,추가 강의 요청,resolved,42.1,99.1,3
+CHAT-f9e63a56,U-16499,2025-05-22T16:08:00,billing,환불 문의,resolved,247.1,1231.1,4
+CHAT-2e4aea45,U-18587,2025-05-22T21:56:00,billing,결제 내역 확인,resolved,8.0,22.8,4
+CHAT-68b928c1,U-01733,2025-05-23T10:54:00,account,탈퇴 문의,resolved,31.2,68.1,4
+CHAT-059a5a2c,U-03150,2025-05-23T11:09:00,technical,로그인 오류,resolved,68.8,216.3,1
+CHAT-b0d667b3,U-03264,2025-05-23T19:40:00,account,프로필 수정,pending,24.1,69.6,4
+CHAT-688344aa,U-08278,2025-05-23T11:29:00,account,비밀번호 변경,resolved,26.4,40.9,5
+CHAT-6698dcb4,U-08407,2025-05-23T21:41:00,technical,영상이 안 나와요,resolved,39.8,99.9,4
+CHAT-4ff01065,U-12113,2025-05-23T12:46:00,billing,플랜 변경 방법,resolved,29.8,82.6,4
+CHAT-eb09a479,U-13543,2025-05-23T21:25:00,technical,앱이 자주 튕겨요,resolved,28.0,110.9,4
+CHAT-6c9f9ca0,U-14447,2025-05-23T13:26:00,other,강사 지원,resolved,261.1,410.7,1
+CHAT-98a8324c,U-14762,2025-05-23T19:02:00,billing,결제 내역 확인,resolved,29.2,80.2,1
+CHAT-e9cff729,U-15065,2025-05-23T10:20:00,content,강의 업데이트 계획,resolved,73.3,146.9,3
+CHAT-d55949ef,U-15374,2025-05-23T13:28:00,content,강의 업데이트 계획,resolved,96.3,308.1,3
+CHAT-a2526076,U-15588,2025-05-23T20:27:00,account,탈퇴 문의,resolved,49.5,168.0,4
+CHAT-2522feb0,U-17425,2025-05-23T17:48:00,technical,로그인 오류,resolved,105.9,243.9,2
+CHAT-457cdc76,U-18057,2025-05-23T15:01:00,billing,환불 문의,resolved,18.7,44.0,4
+CHAT-d423d7bd,U-18080,2025-05-23T21:18:00,account,이메일 변경,resolved,23.0,58.2,3
+CHAT-3f81d4c0,U-18611,2025-05-23T19:05:00,technical,앱이 자주 튕겨요,resolved,59.7,200.6,3
+CHAT-f7cf7fd5,U-18636,2025-05-23T15:29:00,other,기타 문의,resolved,181.9,332.7,3
+CHAT-acea5d40,U-18683,2025-05-23T20:43:00,technical,앱이 자주 튕겨요,resolved,89.0,311.8,2
+CHAT-22ad4b78,U-06130,2025-05-24T17:20:00,technical,앱이 자주 튕겨요,resolved,25.7,48.6,4
+CHAT-d9dc9b39,U-08602,2025-05-24T19:19:00,other,강사 지원,resolved,164.5,587.9,3
+CHAT-6d7f1fe6,U-09042,2025-05-24T16:06:00,other,강사 지원,pending,109.9,253.4,1
+CHAT-d2757a7c,U-09226,2025-05-24T15:43:00,technical,다운로드 안 됨,resolved,111.6,235.1,3
+CHAT-0a0f4106,U-10525,2025-05-24T20:24:00,technical,앱이 자주 튕겨요,pending,33.5,125.2,4
+CHAT-4abb02e3,U-11795,2025-05-24T14:20:00,other,기타 문의,resolved,335.0,899.8,3
+CHAT-89e0594c,U-14977,2025-05-24T10:28:00,billing,플랜 변경 방법,resolved,14.6,23.8,2
+CHAT-346117d4,U-17926,2025-05-24T09:38:00,account,비밀번호 변경,resolved,44.8,89.4,4
+CHAT-09d2cd02,U-18389,2025-05-24T18:43:00,technical,앱이 자주 튕겨요,resolved,67.1,189.6,4
+CHAT-9e4b26ff,U-18859,2025-05-24T15:07:00,billing,플랜 변경 방법,resolved,5.9,12.3,4
+CHAT-21389ea8,U-05935,2025-05-25T16:35:00,content,추가 강의 요청,pending,141.6,349.0,3
+CHAT-7b5ea838,U-13976,2025-05-25T17:42:00,billing,결제 내역 확인,resolved,9.8,23.6,3
+CHAT-366cf71d,U-14067,2025-05-25T12:03:00,technical,앱이 자주 튕겨요,resolved,108.7,370.6,1
+CHAT-f4c23816,U-14541,2025-05-25T13:22:00,technical,다운로드 안 됨,resolved,112.1,447.6,2
+CHAT-8ecb560d,U-14816,2025-05-25T12:08:00,technical,로그인 오류,resolved,111.4,191.3,3
+CHAT-4c583dd1,U-16502,2025-05-25T10:05:00,technical,다운로드 안 됨,resolved,70.0,110.2,4
+CHAT-8c9dfd4c,U-16687,2025-05-25T19:17:00,account,프로필 수정,pending,11.9,30.4,4
+CHAT-441a87a0,U-17394,2025-05-25T20:15:00,billing,플랜 변경 방법,resolved,7.5,22.8,5
+CHAT-8ae8cf08,U-18660,2025-05-25T20:50:00,billing,환불 문의,resolved,7.3,24.0,5
