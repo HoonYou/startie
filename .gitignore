@@ -22,6 +22,9 @@ htmlcov/
 # Jupyter
 .ipynb_checkpoints/
 
+# Local data
+data/
+
 # Streamlit and local app state
 .streamlit/
 
